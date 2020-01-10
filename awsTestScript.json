@@ -1,0 +1,10 @@
+{
+	"JobExecutionSettings":{
+		"AllowDefferedExecution": bool,
+		"DataAccessRoleArn": "str"
+	}, 
+		"LanguageCode": "str",
+"Media":{
+	"MediaFileUri": "str",
+}	
+		}
