@@ -1,18 +1,21 @@
 import logging
 import boto3
 import sys
+import os
 from botocore.exceptions import ClientError
 import sys
 
 def upload_file(file_name,bucket,object_name=None):
     if object_name is None:
-        object_name = file_name
+        tail = os.path.split(file_name)
+        object_name = tail[1]
+        print ("file name is: ", object_name)
 
     s3_client=boto3.client('s3')
-    #s3 = boto3.client('s3')
+
     try:
        response=s3_client.upload_file(file_name,bucket,object_name)
-       #s3.upload_file(file_name,'its-demo-bucket','LectureAudio/'.object_name)
+
     except ClientError as e:
         logging.error(e)
         print ('File failed to upload!')
@@ -22,7 +25,8 @@ def upload_file(file_name,bucket,object_name=None):
 
 a1 = input('Input File Location: ')
 a2 = input('Input Bucket Name: ')
-a3 = input('Input File Name: ')
+#a3 = input('Input File Name: ')
+a3 = None
 
 upload_file(a1,a2,a3)
 
