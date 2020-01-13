@@ -6,9 +6,11 @@ from botocore.exceptions import ClientError
 import sys
 
 def upload_file(file_name,bucket,object_name=None):
+
     if object_name is None:
         tail = os.path.split(file_name)
-        object_name = tail[1]
+        object_name = object_name + tail[1]
+        #object_name = "LectureAudio/Spring2020/" + tail[1]
         print ("file name is: ", object_name)
 
     s3_client=boto3.client('s3')
@@ -25,8 +27,9 @@ def upload_file(file_name,bucket,object_name=None):
 
 a1 = input('Input File Location: ')
 a2 = input('Input Bucket Name: ')
-#a3 = input('Input File Name: ')
-a3 = None
+a3 = input('Input Bucket Location: ')
+#a3 = None
+
 
 upload_file(a1,a2,a3)
 
