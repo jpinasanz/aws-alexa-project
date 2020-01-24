@@ -43,4 +43,4 @@ READ_ME
 	In order to use Boto 3, you must install it in your system.
 	the files botoUploadfile and botoStartTranscriptionJob were created 
 	loaded in Python3 and Boto 3. Refer to the AWS boto3 instructions on
-	how to install. [Boto 3 Install Instructions](boto3.amazonaws.com/v1/documentation/api/latest/guide/quickstart.html)
+	how to install. [Boto 3 Install Instructions](https://www.boto3.amazonaws.com/v1/documentation/api/latest/guide/quickstart.html)
