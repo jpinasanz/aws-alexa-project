@@ -79,17 +79,24 @@ _______________________________________________________________________________
 	Now that you have CLI installed in your system, its time to configure CLI
 	so that you can call functions from Boto 3 and access our files in S3. 
 
-	Hopefully by this point you are familiar with terminal in macOS or you have Ubuntu or some kind of linux distro installed in Windows so you have access to a terminal. 
-	In terminal you're gonna want to type in :
-	$aws configure
+	Hopefully by this point you are familiar with terminal in macOS or you have
+       	Ubuntu or some kind of linux distro installed in Windows so you have access
+       	to a terminal.
+	
+	In terminal you're gonna want to type in:
+	aws configure
 
-	This will bring in prompts to fill in your AWS Access Key ID and other information from the IAM step. Fill in your information as follows:
+	This will bring in prompts to fill in your AWS Access Key ID and
+       	other information from the IAM step. Fill in your information as follows:
 
 	AWS Access Key ID: <your access key>
 	AWS Secret Access Key: <your sercret access key>
 	Default region name: us-west-2
 	Default output format: json
 
-	By this point you should be good to go to start using AWS Boto 3
+	By this point you should be good to go. You've installed Boto 3 so you have
+	access to the AWS SDK, you've set yourself up a new user with appropriate
+	keys for access and you've installed AWS CLI and configured it so it will
+	recognize your authentication and grant you access to the ITS AWS S3.
 
 
