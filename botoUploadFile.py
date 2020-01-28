@@ -37,21 +37,5 @@ def upload_file(file_name,bucket,object_name=None):
 
 if __name__ == '__main__':
     upload_file(*sys.argv[1:])
-    
-#directory of the local files ~./c/blah/blahblah/audio.mp3
-#a1 = input('Input File Location: ')
-#name of the S3 bucket (ie: its-demo-bucket)
-#a2 = input('Input Bucket Name: ') 
-#this is normally the object name in the bucket, but we found that if you set this to
-#a directory name, it creates a directory in the S3. This can be used to place the file
-#in a specific location in the S3
-#a3 = input('Input Bucket Location: ') 
+  
 
-#upload_file(a1,a2,a3)
-
-
-#bucketName='its-demo-bucket'
-#objectName='transcriptionFile.mp3'
-
-#upload_file(a1,bucketName,a2)
-#upload_file('/mnt/c/users/jc/desktop/ITS/AWS/Amazon_Transcribe/transcribe-sample.mp3',bucketName,objectName)

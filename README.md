@@ -6,12 +6,14 @@ READ_ME
 
 
 1) Introduction
+_______________________________________________________________________________
 	This the the READ_ME for the ITS Amazon Transcribe project!
 	This project is aimed at using Amazon Webservices (AWS) to 
 	create transcriptions of recorded lecture audio so we can make
 	accurate subtitles that our students can use!
 
 2) How we're doing it
+_______________________________________________________________________________
 	There are a couple of steps involved in converting the lecture
 	audio from Mediasite to AWS then back to us. We've outlined
 	the process in a couple of steps (very subject to change).
@@ -36,6 +38,7 @@ READ_ME
 	are in the proper location so blackboard can load them.
 
 3) How to setup
+_______________________________________________________________________________
 	For this project I have chosen to use AWS Python SDK, Boto 3. This is
 	is because AWS has included a full API for AWS services within Boto 3
 	and we can quickly make calls to many of the AWS functions in python.

@@ -2,6 +2,7 @@ from __future__ import print_function
 import time
 from datetime import datetime
 import boto3
+import sys
 
 def startTranscriptionJob(job_uri,outputBucketName):
     
@@ -24,6 +25,8 @@ def startTranscriptionJob(job_uri,outputBucketName):
         print ("Not ready yet...")
         time.sleep(5)
         print(status)
+if __name__ == '__main__':
+    startTranscriptionJob(*sys.argv[1:])
 
 job_uri='s3://its-demo-bucket/transcribe-sample.mp3'
 outputBucketName='its-demo-bucket'
