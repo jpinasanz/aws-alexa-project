@@ -4,7 +4,7 @@ READ_ME
 2) How we're doing it
 3) How to setup 
 
-
+_______________________________________________________________________________
 1) Introduction
 _______________________________________________________________________________
 	This the the READ_ME for the ITS Amazon Transcribe project!
