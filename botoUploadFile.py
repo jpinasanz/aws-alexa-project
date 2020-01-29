@@ -4,17 +4,16 @@ import os
 from botocore.exceptions import ClientError
 import sys
 
+#This program is designed to take in a local file specified by a directory,
+#the name of an AWS S3 bucket that you have access to, and the file location
+#within that S3 where you want to place the file.
+
+
 def upload_file(file_name,bucket,object_name=None):
-#
-#This pulls the filename from the input file path and concactinates it to the object name.
-#Currently, it only does it when the 3rd argument is 'None'.
-#Need to change this so you can input the file location in the S3 and the script will place
-#the file in the right folder in the S3.
-#
+
     if object_name is None:
         tail = os.path.split(file_name)
         object_name = object_name + tail[1]
-        #object_name = "LectureAudio/Spring2020/" + tail[1]
         print ("file name is: ", object_name)
     else:
         tail = os.path.split(file_name)
