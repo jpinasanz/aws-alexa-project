@@ -4,13 +4,15 @@ import os
 from botocore.exceptions import ClientError
 import sys
 
-#This program is designed to take in a local file specified by a directory,
-#the name of an AWS S3 bucket that you have access to, and the file location
-#within that S3 where you want to place the file.
-
-
 def upload_file(file_name,bucket,object_name=None):
-
+    #This function uploads local files to a specified bucket within
+    #AWS S3.
+    
+    #The section concatenates the file name onto the end of the
+    #specified file path in the S3. This is to ensure that your
+    #file in the S3 retains its name and all you have to do for
+    #the 3rd argument is type in the directory in the S3
+    # i.e. ( BucketFolder/InnerFolder/Finalfolder)
     if object_name is None:
         tail = os.path.split(file_name)
         object_name = object_name + tail[1]
@@ -29,8 +31,10 @@ def upload_file(file_name,bucket,object_name=None):
 
     except ClientError as e:
         logging.error(e)
+        #you will get this error if AWS returns an exception
         print ('File failed to upload!')
         return False
+
     print ('File Uploaded Successfully!')
     return True
 

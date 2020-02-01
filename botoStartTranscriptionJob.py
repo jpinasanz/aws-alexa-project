@@ -4,12 +4,20 @@ from datetime import datetime
 import boto3
 import sys
 
-def startTranscriptionJob(job_uri,outputBucketName):
-    
-    transcribe = boto3.client('transcribe')
-    now = datetime.now()
+#This program is designed to page requests to AWS to take a file located in
+#an S3 bucket and run a transcription job with the AWS Transcribe service.
 
-    job_name = now.strftime("%m-%d-%Y_%H.%M.%S")
+
+def startTranscriptionJob(bucketName,bucketFileDirectory,outputBucketName):
+    #creates Transcribe job client
+    transcribe = boto3.client('transcribe')
+    #creates a dateTime object
+    now = datetime.now()
+    #returns the filename from the URL input in the argument
+    uriFilename = bucketFileDirectory.rsplit('/',1)[1]
+    #generates a unique file name for the 
+    job_name = uriFilename + '-' + now.strftime("%m-%d-%Y_%H.%M.%S")
+    job_uri = "https://"+ bucketName + client.get_bucket_location(bucketName)+"amazonaws.com/"+ bucketFileDirectory
 
     transcribe.start_transcription_job(
             TranscriptionJobName= job_name,
@@ -25,10 +33,11 @@ def startTranscriptionJob(job_uri,outputBucketName):
         print ("Not ready yet...")
         time.sleep(5)
         print(status)
+
 if __name__ == '__main__':
     startTranscriptionJob(*sys.argv[1:])
 
-job_uri='s3://its-demo-bucket/transcribe-sample.mp3'
-outputBucketName='its-demo-bucket'
-startTranscriptionJob(job_uri,outputBucketName)
+
+
+
 
