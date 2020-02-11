@@ -1,41 +1,44 @@
 import logging
 import boto3
-import sys
 import os
 from botocore.exceptions import ClientError
 import sys
 
 def upload_file(file_name,bucket,object_name=None):
-
+    #This function uploads local files to a specified bucket within
+    #AWS S3.
+    
+    #The section concatenates the file name onto the end of the
+    #specified file path in the S3. This is to ensure that your
+    #file in the S3 retains its name and all you have to do for
+    #the 3rd argument is type in the directory in the S3
+    # i.e. ( BucketFolder/InnerFolder/Finalfolder)
     if object_name is None:
         tail = os.path.split(file_name)
         object_name = object_name + tail[1]
-        #object_name = "LectureAudio/Spring2020/" + tail[1]
         print ("file name is: ", object_name)
+    else:
+        tail = os.path.split(file_name)
+        object_name = object_name + '/' + tail[1]
+        print("file name is: ", object_name)
 
+    #Calls S3 service, sets it to 's3_client'
     s3_client=boto3.client('s3')
 
+    #The actual function call to 'upload_file'
     try:
        response=s3_client.upload_file(file_name,bucket,object_name)
 
     except ClientError as e:
         logging.error(e)
+        #you will get this error if AWS returns an exception
         print ('File failed to upload!')
         return False
+
     print ('File Uploaded Successfully!')
     return True
 
-a1 = input('Input File Location: ')
-a2 = input('Input Bucket Name: ')
-a3 = input('Input Bucket Location: ')
-#a3 = None
+if __name__ == '__main__':
+    upload_file(*sys.argv[1:])
+  
 
-
-upload_file(a1,a2,a3)
-
-
-#bucketName='its-demo-bucket'
-#objectName='transcriptionFile.mp3'
-
-#upload_file(a1,bucketName,a2)
-#upload_file('/mnt/c/users/jc/desktop/ITS/AWS/Amazon_Transcribe/transcribe-sample.mp3',bucketName,objectName)
