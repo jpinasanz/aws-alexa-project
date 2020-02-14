@@ -11,13 +11,19 @@ import sys
 def startTranscriptionJob(bucketName,bucketFileDirectory,outputBucketName):
     #creates Transcribe job client
     transcribe = boto3.client('transcribe')
+    s3 = boto3.client('s3')
     #creates a dateTime object
     now = datetime.now()
     #returns the filename from the URL input in the argument
     uriFilename = bucketFileDirectory.rsplit('/',1)[1]
     #generates a unique file name for the 
     job_name = uriFilename + '-' + now.strftime("%m-%d-%Y_%H.%M.%S")
-    job_uri = "https://"+ bucketName + client.get_bucket_location(bucketName)+"amazonaws.com/"+ bucketFileDirectory
+    #produce the bucket location for the uri line
+    response = s3.get_bucket_location(Bucket=bucketName)
+    bucketLocation = response.get('LocationConstraint')
+    
+    job_uri = "https://"+ bucketName+'.s3-' +bucketLocation +".amazonaws.com/"+ bucketFileDirectory
+    print ('\n' +job_uri + '\n')
 
     transcribe.start_transcription_job(
             TranscriptionJobName= job_name,
