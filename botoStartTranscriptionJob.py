@@ -8,7 +8,7 @@ import sys
 #an S3 bucket and run a transcription job with the AWS Transcribe service.
 
 
-def startTranscriptionJob(bucketName,bucketFileDirectory,outputBucketName):
+def b(bucketName,bucketFileDirectory,outputBucketName):
     #creates Transcribe job client
     transcribe = boto3.client('transcribe')
     s3 = boto3.client('s3')
