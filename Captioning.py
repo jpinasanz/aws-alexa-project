@@ -5,9 +5,9 @@ from subtitles import *
 import boto3
 
 def caption(FileName):
-    #upload_file(FileName, "itsawstest", "Test")
+    upload_file(FileName, "itsawstest", "Test")
     print("11111111")
-    #startTranscriptionJob("itsawstest", "Test/" + FileName, "itsawstest")
+    startTranscriptionJob("itsawstest", "Test/" + FileName, "itsawstest")
     print("2222222")
 
     get_last_modified = lambda obj: int(obj['LastModified'].strftime('%s'))
