@@ -14,28 +14,7 @@ _______________________________________________________________________________
 
 2) How we're doing it
 _______________________________________________________________________________
-	There are a couple of steps involved in converting the lecture
-	audio from Mediasite to AWS then back to us. We've outlined
-	the process in a couple of steps (very subject to change).
-	
-	The first step is to access the stored audiofiles from Mediasite.
-	Currently these are stored locally, talk to Kao on how to access
-	these files and how to use them.
-
-	Next, once we have access to these files we will upload them to the
-	AWS S3. AWS will only work for us if have files stored in the S3.
-	
-	Next, we will make calls to the AWS Transcribe system to load our S3
-	stored audio files and return a JSON format transcription file to a
-	specified location in the S3.
-
-	Once we have the transcription file, we can pull it from the S3 and 
-	begin the process of converting it into a .srt file. The .srt is a
-	commonly used file type in video subtitles. We have do not currently
-	have a program for running this process.
-
-	Finally, we verify that the correct video, audio, and subtitle files
-	are in the proper location so blackboard can load them.
+First, to get lecture audio from mediasite we set up a custom transcription provider in mediasite that will automatically send videos to our server when requested This was handled in the mediasite management portal. Our server is set up on AWS EC2 and is set up to recieve videos through .mp4. Once videos get to the server they are detected by SftpWatcher.py which starts a new Captioning.py thread that runs the transcription job. Once the .srt has been created we send the srt back to mediasite and dispose of all the temporary files.
 
 3) How to setup
 _______________________________________________________________________________
