@@ -23,6 +23,7 @@ def upload_file(file_name,bucket,object_name=None):
         print("file name is: ", object_name)
 
     #Calls S3 service, sets it to 's3_client'
+    print ('Got to this point. Pls Work!')
     s3_client=boto3.client('s3')
 
     #The actual function call to 'upload_file'

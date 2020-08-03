@@ -1,0 +1,1372 @@
+1
+00:00:16,839 --> 00:00:20,949
+your surface infiltration measurements and the implications for artificial recharge
+
+2
+00:00:21,750 --> 00:00:26,149
+. Here's a picture near the study area looking east
+
+3
+00:00:26,149 --> 00:00:30,160
+in the morning of Ah, this town 29 palms
+
+4
+00:00:30,160 --> 00:00:36,119
+is just east of Joshua Tree, um, and
+
+5
+00:00:36,119 --> 00:00:39,960
+discuss the purpose and scope of the study. The
+
+6
+00:00:40,219 --> 00:00:43,109
+main issue out there was a decrease in water levels
+
+7
+00:00:43,119 --> 00:00:47,619
+. Teoh increased pumping from increased population they had lost
+
+8
+00:00:48,820 --> 00:00:50,969
+. There was decreases of the water table by as
+
+9
+00:00:50,969 --> 00:00:55,270
+much as 35 feet 50 years. So the purpose
+
+10
+00:00:55,270 --> 00:00:59,469
+was to evaluate the potential for infiltration through surface deposits
+
+11
+00:00:59,549 --> 00:01:03,399
+at proposed recharge sites near Joshua Tree, California.
+
+12
+00:01:03,840 --> 00:01:07,299
+Scope of the study included Field data collection by using
+
+13
+00:01:07,299 --> 00:01:10,750
+a double ring in full trauma, ter um,
+
+14
+00:01:11,189 --> 00:01:15,189
+and collection of sir official material through Cory. Laboratory
+
+15
+00:01:15,189 --> 00:01:21,079
+Analysis of this official deposits calculation of sir official infiltration
+
+16
+00:01:21,079 --> 00:01:25,450
+rates from the infill trauma, her data and then
+
+17
+00:01:26,439 --> 00:01:30,450
+obtaining soil water parameters using computer program. Rosetta.
+
+18
+00:01:30,280 --> 00:01:34,040
+An interpretation of the data using the modeling program BS
+
+19
+00:01:34,040 --> 00:01:38,209
+two D, which is a unsaturated zone flow model
+
+20
+00:01:40,000 --> 00:01:41,659
+. So in outline of this talk, we're going
+
+21
+00:01:41,659 --> 00:01:44,659
+to discuss the study area, talk about how the
+
+22
+00:01:44,659 --> 00:01:49,159
+data that was collected parameter estimation and then modeling with
+
+23
+00:01:49,159 --> 00:01:55,849
+Viets to D and then discuss the conclusions. Um
+
+24
+00:01:55,859 --> 00:02:00,489
+, study area is about 120 miles east of Los
+
+25
+00:02:00,489 --> 00:02:04,739
+Angeles, California um, centered around the town of
+
+26
+00:02:04,739 --> 00:02:07,459
+Joshua Tree, California We've got 29 palms to the
+
+27
+00:02:07,459 --> 00:02:12,949
+east Yucca Valley to the west, and we've got
+
+28
+00:02:12,949 --> 00:02:15,629
+our major regional groundwater, so obeisance colored here we
+
+29
+00:02:15,629 --> 00:02:20,539
+have the Copper Mountain Groundwater sub basin. The warn
+
+30
+00:02:20,550 --> 00:02:23,180
+groundwater. So based in 29 palms groundwater, so
+
+31
+00:02:23,180 --> 00:02:24,560
+basin and then the groundwater. So based on that
+
+32
+00:02:24,560 --> 00:02:28,789
+, were mainly concerned with which is the Joshua Tree
+
+33
+00:02:28,840 --> 00:02:31,569
+groundwater. So basin recharge into the sub basin.
+
+34
+00:02:31,569 --> 00:02:35,819
+This either through flow across the yucca barrier here,
+
+35
+00:02:35,819 --> 00:02:40,229
+which is a series of faults and also recharged through
+
+36
+00:02:40,229 --> 00:02:46,050
+this inter minute quail wash, which flows due to
+
+37
+00:02:46,050 --> 00:02:50,360
+precipitation. Here in the little certain San Bernadino mountains
+
+38
+00:02:51,699 --> 00:02:53,870
+flow through the crowd wash, eventually closing the Yucca
+
+39
+00:02:53,870 --> 00:03:00,270
+Wash and it flows high enough can reach dry lake
+
+40
+00:03:00,270 --> 00:03:04,810
+bed of Coyote Lake. A significant feature in this
+
+41
+00:03:04,810 --> 00:03:06,900
+area is this black line here, which is the
+
+42
+00:03:06,909 --> 00:03:08,740
+Pinto Mountain fault, and it's a barrier to flow
+
+43
+00:03:08,740 --> 00:03:14,229
+between the Joshua Tree Groundwater sub basin and the Copper
+
+44
+00:03:14,229 --> 00:03:22,189
+Mountain groundwater. So busy this map Here is ah
+
+45
+00:03:22,699 --> 00:03:23,780
+, zoomed in detailed map of the study area.
+
+46
+00:03:24,439 --> 00:03:29,490
+We have the Pinter Mountain fault crossing from the south
+
+47
+00:03:29,590 --> 00:03:32,909
+west to the Northeast across map, and we have
+
+48
+00:03:32,909 --> 00:03:36,479
+two different proposed areas for recharge we have north of
+
+49
+00:03:36,479 --> 00:03:40,229
+the Penta Mountain Fault. This area here is the
+
+50
+00:03:40,229 --> 00:03:45,680
+ICA Wash on these two painful trauma test sites are
+
+51
+00:03:45,680 --> 00:03:49,039
+just on the fringe of the wash. Water recharged
+
+52
+00:03:49,189 --> 00:03:51,530
+north of the pent amount fall would be constrained,
+
+53
+00:03:52,139 --> 00:03:53,810
+contained by the fault and therefore would be more of
+
+54
+00:03:53,810 --> 00:04:00,180
+a water bank storage type situation. Water infiltrated south
+
+55
+00:04:00,180 --> 00:04:03,159
+of the fault, Um, would be more of
+
+56
+00:04:03,159 --> 00:04:12,490
+, ah, recharge of the aquifer system. So
+
+57
+00:04:12,490 --> 00:04:15,069
+data was collected had those info traumatize sites he saw
+
+58
+00:04:15,069 --> 00:04:16,689
+in the previous map. This here is a double
+
+59
+00:04:16,689 --> 00:04:19,170
+ring in full trauma. Ter. We seated this
+
+60
+00:04:19,170 --> 00:04:21,560
+into the ground as far as possible without disturbing too
+
+61
+00:04:21,560 --> 00:04:25,069
+much of the surface Shal material, um, and
+
+62
+00:04:25,069 --> 00:04:27,870
+then burn the edges to prevent leaking from outside edges
+
+63
+00:04:27,870 --> 00:04:30,600
+of the inflow trauma. Ter Each ring. These
+
+64
+00:04:30,600 --> 00:04:33,290
+are two separate rings here. Each ring is connected
+
+65
+00:04:33,290 --> 00:04:39,449
+to its own calibrated reservoir reservoirs calibrated a five gallon
+
+66
+00:04:39,459 --> 00:04:43,990
+intervals. Um, and testing is done by filling
+
+67
+00:04:43,990 --> 00:04:46,850
+the two rings to desired stage height so that they
+
+68
+00:04:46,850 --> 00:04:50,399
+were both equal and then regulating flow from the the
+
+69
+00:04:50,399 --> 00:04:55,579
+reservoirs into the rings to keep the stage height equal
+
+70
+00:04:55,579 --> 00:05:00,170
+throughout the testing. Therefore, the water removed from
+
+71
+00:05:00,170 --> 00:05:03,269
+the reservoir can be assumed to be the water infiltrated
+
+72
+00:05:03,279 --> 00:05:06,250
+through that ring. Uh, set up for this
+
+73
+00:05:06,250 --> 00:05:12,209
+ring is special in that we're trying to measure strictly
+
+74
+00:05:12,209 --> 00:05:16,410
+downward flow of water so the outside ring can flow
+
+75
+00:05:16,410 --> 00:05:18,550
+down there. But it can also flow laterally away
+
+76
+00:05:18,550 --> 00:05:23,160
+from the ring. But it also constrains the flow
+
+77
+00:05:23,160 --> 00:05:26,680
+of the entering so that flowed. Entering it should
+
+78
+00:05:26,680 --> 00:05:30,269
+be strictly downward movement. So the rate from the
+
+79
+00:05:30,269 --> 00:05:33,699
+entering would be your downward rave movement of water through
+
+80
+00:05:33,699 --> 00:05:38,069
+that that ring. And then this just shows this
+
+81
+00:05:38,069 --> 00:05:40,180
+set up and the study areas, you can get
+
+82
+00:05:40,180 --> 00:05:43,550
+a feel for the scenario. We're working it.
+
+83
+00:05:47,620 --> 00:05:50,560
+Here's the data that we God from doing the inflow
+
+84
+00:05:50,560 --> 00:05:57,019
+trauma tests. We have our three different scenarios of
+
+85
+00:05:57,019 --> 00:05:59,259
+settings In the study area. We have washed near
+
+86
+00:05:59,259 --> 00:06:01,680
+Washington on wash settings. You can see that are
+
+87
+00:06:01,680 --> 00:06:06,050
+wash provided the highest infiltration rates. We've got volume
+
+88
+00:06:06,810 --> 00:06:11,569
+her time. So we've got a greater on slope
+
+89
+00:06:11,569 --> 00:06:14,089
+here, which means a higher infiltration rate. You
+
+90
+00:06:14,089 --> 00:06:16,120
+can see that it it's less for the near wash
+
+91
+00:06:16,129 --> 00:06:19,029
+settings and further, more or less in the non
+
+92
+00:06:19,029 --> 00:06:23,639
+wash settings. One interesting thing to point out is
+
+93
+00:06:23,899 --> 00:06:26,100
+you can see with near wash and wash settings.
+
+94
+00:06:26,100 --> 00:06:28,879
+We have a very linen, your data you would
+
+95
+00:06:28,879 --> 00:06:33,569
+expect for infiltration that with the beginning, when infiltration
+
+96
+00:06:33,569 --> 00:06:39,170
+commences that you would have not only gravitational forces but
+
+97
+00:06:39,170 --> 00:06:42,560
+also matric potential forces. And as the water moved
+
+98
+00:06:42,560 --> 00:06:45,769
+further down in the subsurface, the gravitational forces would
+
+99
+00:06:45,779 --> 00:06:50,490
+predominate and the infiltration rate would decrease. You can
+
+100
+00:06:50,500 --> 00:06:54,889
+kind of see that here for our non wash setting
+
+101
+00:06:54,889 --> 00:07:00,029
+, you've got a slight exponential decrease on infiltration rate
+
+102
+00:07:00,029 --> 00:07:03,990
+with time and a believe that the reason you don't
+
+103
+00:07:03,990 --> 00:07:06,860
+see that for the near washing wash settings is the
+
+104
+00:07:06,860 --> 00:07:11,019
+men for cooperation rate is so high that you you
+
+105
+00:07:11,029 --> 00:07:14,970
+do not see that the exponential decrease and linearity is
+
+106
+00:07:15,680 --> 00:07:18,740
+reached very early on, uh, to prove her
+
+107
+00:07:18,740 --> 00:07:21,439
+toe kind of back. This point up, this
+
+108
+00:07:21,439 --> 00:07:24,160
+is in full trauma. Her data from a study
+
+109
+00:07:24,160 --> 00:07:27,629
+done an Antelope Valley where we had very low infiltration
+
+110
+00:07:27,629 --> 00:07:30,829
+rates some sites were actually almost zero. And you
+
+111
+00:07:30,829 --> 00:07:34,250
+can see here there is more of an exponential decrease
+
+112
+00:07:34,639 --> 00:07:38,350
+. And this is important because if you do expect
+
+113
+00:07:39,029 --> 00:07:41,089
+though infiltration rates, you want to make sure that
+
+114
+00:07:41,089 --> 00:07:45,819
+your study time is sufficiently long enough so that you
+
+115
+00:07:45,819 --> 00:07:48,310
+do reach linearity and you can't determine your infiltration rate
+
+116
+00:07:53,019 --> 00:07:54,660
+. So, as I said, surface scores were
+
+117
+00:07:54,660 --> 00:07:57,850
+collected at the infiltrate and feel trauma test sites.
+
+118
+00:07:58,290 --> 00:08:01,680
+This is, ah, the data from the laboratory
+
+119
+00:08:01,680 --> 00:08:07,649
+analysis of those surface scores. Uh, major point
+
+120
+00:08:07,649 --> 00:08:09,410
+here is the wash sites, which the site wanted
+
+121
+00:08:09,410 --> 00:08:13,350
+to have a greater percentage of sand. Um,
+
+122
+00:08:15,490 --> 00:08:18,290
+and not so much not is greater percentage of silt
+
+123
+00:08:18,670 --> 00:08:20,769
+. Now, keep in mind these are only the
+
+124
+00:08:20,769 --> 00:08:24,910
+first upper one foot of the study site. So
+
+125
+00:08:24,910 --> 00:08:33,529
+this doesn't necessarily describe complete subsurface. We also got
+
+126
+00:08:33,529 --> 00:08:37,450
+hydraulic conductivity is from this laboratory analysis. Um,
+
+127
+00:08:37,139 --> 00:08:43,279
+the hydraulic conductivity is do not necessarily match the infiltration
+
+128
+00:08:43,279 --> 00:08:46,539
+rates or the setting with which they were. These
+
+129
+00:08:46,539 --> 00:08:48,110
+sites are located. A Z can see. We've
+
+130
+00:08:48,110 --> 00:08:54,220
+got a higher hydraulic conductivity for one of these non
+
+131
+00:08:54,220 --> 00:08:58,019
+wash sites than we do. They wash sites and
+
+132
+00:08:58,019 --> 00:09:01,500
+you would expect the wash sites tohave higher hydraulic conductivity
+
+133
+00:09:03,840 --> 00:09:05,169
+due to the fact that they had higher infiltration rates
+
+134
+00:09:05,940 --> 00:09:15,399
+. Um, let's see. So our preliminary results
+
+135
+00:09:15,399 --> 00:09:18,659
+just from data collection before we got into the modeling
+
+136
+00:09:18,659 --> 00:09:22,090
+was that there was simple collection of surface infiltration rates
+
+137
+00:09:22,100 --> 00:09:26,429
+and core material. Um, the infiltration rates were
+
+138
+00:09:26,429 --> 00:09:28,289
+the Iast within the wash lower adjacent, awash in
+
+139
+00:09:28,289 --> 00:09:33,490
+still lower in the non washed, um, and
+
+140
+00:09:33,490 --> 00:09:35,850
+full trauma touch should be done. Um, should
+
+141
+00:09:35,850 --> 00:09:39,330
+be long enough. So that do reach linearity in
+
+142
+00:09:39,330 --> 00:09:43,860
+your data and soil texture data correlated with setting infiltration
+
+143
+00:09:43,870 --> 00:09:46,379
+. However, we did see the discrepancies in hydraulic
+
+144
+00:09:46,379 --> 00:09:52,409
+conductivity. So the next step in this process was
+
+145
+00:09:52,419 --> 00:10:00,269
+to two parameter estimation to obtain the van connection.
+
+146
+00:10:01,070 --> 00:10:03,129
+Constance, these describe the shape of the wedding front
+
+147
+00:10:03,129 --> 00:10:07,299
+as they wedding from moves through the unsaturated zone and
+
+148
+00:10:07,299 --> 00:10:09,850
+those air needed for input into the V s to
+
+149
+00:10:09,860 --> 00:10:13,169
+the model. So that was the main use of
+
+150
+00:10:13,169 --> 00:10:18,070
+this computer program, Rosetta. It also gave us
+
+151
+00:10:18,139 --> 00:10:22,259
+hydraulic conductivity values that we could compare with not only
+
+152
+00:10:22,259 --> 00:10:26,889
+the laboratory hydraulic conductivity ease, but also the values
+
+153
+00:10:26,889 --> 00:10:31,080
+we were planning on getting from modeling. The infiltration
+
+154
+00:10:31,080 --> 00:10:35,100
+did it. You can see that there is quite
+
+155
+00:10:35,110 --> 00:10:37,600
+it could be quite a big difference between the laboratory
+
+156
+00:10:37,600 --> 00:10:41,250
+hydraulic conductivity, values and the result of values.
+
+157
+00:10:41,740 --> 00:10:46,600
+Which is somewhat odd because the input for the Rosetta
+
+158
+00:10:46,970 --> 00:10:50,440
+program was simply the particle size data from the laboratory
+
+159
+00:10:50,440 --> 00:10:54,809
+analysis. You would expect that would be some some
+
+160
+00:10:54,809 --> 00:10:58,120
+comparison there. However, the techniques are different.
+
+161
+00:10:58,120 --> 00:11:01,450
+See, do you have different numbers? Um,
+
+162
+00:11:01,799 --> 00:11:11,149
+so I Yes, Yes, Um, I see
+
+163
+00:11:13,440 --> 00:11:16,740
+. And so our hydraulic conductivity values were six times
+
+164
+00:11:16,740 --> 00:11:20,559
+10 the negative five toe, almost two times 10
+
+165
+00:11:20,559 --> 00:11:22,460
+mega, five feet per second, which is in
+
+166
+00:11:22,460 --> 00:11:26,960
+the range of fine sands that silty sands which correctly
+
+167
+00:11:26,960 --> 00:11:33,039
+describes with study area. Um, so then we
+
+168
+00:11:33,039 --> 00:11:35,509
+used our hydraulic conductivity values and the bank A nation
+
+169
+00:11:35,860 --> 00:11:39,590
+parameters as input in the V s too deep,
+
+170
+00:11:39,549 --> 00:11:41,330
+and we use visas to D, which is a
+
+171
+00:11:41,379 --> 00:11:46,759
+unsaturated zone flow model to estimate hydraulic properties. Based
+
+172
+00:11:46,759 --> 00:11:48,470
+on our info trauma data, we also used it
+
+173
+00:11:48,470 --> 00:11:52,269
+to create infiltration rate curves using those laboratory and Rosetta
+
+174
+00:11:52,279 --> 00:11:56,450
+hydraulic on activities to match with the field data.
+
+175
+00:11:56,539 --> 00:12:01,730
+Um, we also evaluated effective layering on near surface
+
+176
+00:12:01,730 --> 00:12:05,559
+of infiltration rate measurements because subsurface is not always a
+
+177
+00:12:05,620 --> 00:12:11,169
+homogeneous bloc of sand that can be layering compaction.
+
+178
+00:12:11,899 --> 00:12:15,340
+Um, and then finally, we provided a rough
+
+179
+00:12:15,340 --> 00:12:16,909
+estimate of the wedding front. Arrival time for its
+
+180
+00:12:16,909 --> 00:12:20,820
+surface, a one acre service infiltration pond. Just
+
+181
+00:12:20,820 --> 00:12:24,080
+to give. Ah, a rough estimate of toe
+
+182
+00:12:24,080 --> 00:12:28,149
+win. Recharge would begin if you did build upon
+
+183
+00:12:31,820 --> 00:12:33,750
+. So here is ah, the user interface for
+
+184
+00:12:33,750 --> 00:12:41,580
+V S two D. And this is actually a
+
+185
+00:12:41,580 --> 00:12:46,370
+grated model of our in full trauma test. This
+
+186
+00:12:46,370 --> 00:12:48,730
+is the model demand blocked out here We have.
+
+187
+00:12:48,730 --> 00:12:50,480
+Ah, this is a radio model. So this
+
+188
+00:12:50,480 --> 00:12:54,799
+upper left corner would be considered that the very center
+
+189
+00:12:54,799 --> 00:12:58,220
+of your Narine we have our entering here bounded by
+
+190
+00:12:58,419 --> 00:13:01,480
+our info, trauma or wall on our outer in
+
+191
+00:13:01,039 --> 00:13:05,139
+, founded by the outside in from trauma or wall
+
+192
+00:13:05,500 --> 00:13:07,169
+. You see, we have pondered water here to
+
+193
+00:13:07,169 --> 00:13:11,700
+simulate pond water inside the infiltration rings. Um,
+
+194
+00:13:11,610 --> 00:13:16,929
+greeting below the directly below them for trauma is smaller
+
+195
+00:13:16,929 --> 00:13:22,730
+space, creating the kind of helps with the precision
+
+196
+00:13:22,730 --> 00:13:26,679
+of the the modeling. And here you can see
+
+197
+00:13:26,679 --> 00:13:31,179
+, we have some of the model options. Just
+
+198
+00:13:31,179 --> 00:13:33,909
+wanted to show all the different options you have.
+
+199
+00:13:35,309 --> 00:13:41,690
+Important thing is the computation of inner cell relative hydraulic
+
+200
+00:13:41,690 --> 00:13:46,870
+conductivity for non radium. Oddo's um, the arithmetic
+
+201
+00:13:46,870 --> 00:13:50,529
+mean could give you the the best results for radio
+
+202
+00:13:50,529 --> 00:13:56,299
+models where you have a smooth wedding front or smooth
+
+203
+00:13:56,299 --> 00:14:00,940
+wedding front. The geometric mean works well. However
+
+204
+00:14:00,940 --> 00:14:05,149
+, with infiltration into a very dry medium, you
+
+205
+00:14:05,149 --> 00:14:07,179
+have a very sharp wedding front. And so therefore
+
+206
+00:14:07,179 --> 00:14:11,649
+you need to use the upstream waiting option. Um
+
+207
+00:14:11,039 --> 00:14:15,049
+and then we chose the Vanga Nation model Teoh represent
+
+208
+00:14:15,049 --> 00:14:22,870
+the hydraulic kicked heuristic functions, and these were the
+
+209
+00:14:22,870 --> 00:14:24,169
+results of the V s to modeling RVs to D
+
+210
+00:14:24,169 --> 00:14:28,879
+. Modeling these top two Here are the wash sites
+
+211
+00:14:28,919 --> 00:14:31,879
+. These bottom Teoh are the near wash sites will
+
+212
+00:14:31,879 --> 00:14:33,950
+get to the non wash here in a second.
+
+213
+00:14:33,340 --> 00:14:37,909
+Um, you can see here we with the late
+
+214
+00:14:37,909 --> 00:14:39,799
+time data were matching well with our model field,
+
+215
+00:14:39,799 --> 00:14:45,980
+which is the black line and are actual field data
+
+216
+00:14:45,980 --> 00:14:48,250
+, which is the solid. This solid the line
+
+217
+00:14:48,350 --> 00:14:50,250
+. I'm not sure what that's not coming up.
+
+218
+00:14:50,610 --> 00:14:56,250
+Um, we have the The slopes match Well,
+
+219
+00:14:56,490 --> 00:14:58,679
+so we're getting the sand infiltration rate. However,
+
+220
+00:14:58,679 --> 00:15:03,980
+the cumulative infiltration is over estimated with our modeled results
+
+221
+00:15:03,639 --> 00:15:05,509
+and you can see the problem here is this early
+
+222
+00:15:05,509 --> 00:15:09,990
+time data. We're overestimating infiltration rates in the early
+
+223
+00:15:09,990 --> 00:15:11,299
+time. For all that, almost all of these
+
+224
+00:15:11,299 --> 00:15:20,080
+sites. Um And we're also, um the field
+
+225
+00:15:20,080 --> 00:15:26,190
+is here on this one here on this one there
+
+226
+00:15:26,190 --> 00:15:33,769
+on that one. And it would be, Yeah
+
+227
+00:15:33,840 --> 00:15:37,360
+, these air about the same. Um, another
+
+228
+00:15:37,360 --> 00:15:43,460
+thing to note here is that the Rosetta and laboratory
+
+229
+00:15:45,590 --> 00:15:50,460
+modelled curves compare well with one another, but underestimate
+
+230
+00:15:50,470 --> 00:15:58,669
+infiltration at these sites. Um, the conclusion I
+
+231
+00:15:58,669 --> 00:16:02,250
+got from this was that something in the near surfaces
+
+232
+00:16:03,100 --> 00:16:07,570
+, um, causing these discrepancies because you're Rosetta and
+
+233
+00:16:07,570 --> 00:16:10,909
+your laboratory values were derived from near surface material.
+
+234
+00:16:11,159 --> 00:16:15,690
+And you're also getting a difference in your infiltration rates
+
+235
+00:16:15,690 --> 00:16:18,340
+with near time data, which would be representative of
+
+236
+00:16:18,340 --> 00:16:23,350
+your near surface alluvial. You can see here with
+
+237
+00:16:23,350 --> 00:16:26,350
+the non wash sites. We don't have that problem
+
+238
+00:16:26,039 --> 00:16:29,429
+. The near surf are the near really time did
+
+239
+00:16:29,429 --> 00:16:33,259
+at near surface alluvial measurements. We have good matching
+
+240
+00:16:33,740 --> 00:16:37,649
+between modeled on field and lab here, um,
+
+241
+00:16:38,879 --> 00:16:41,669
+site for it's just kind of a mess. It
+
+242
+00:16:41,669 --> 00:16:47,830
+doesn't describe well, because we also have good matching
+
+243
+00:16:47,830 --> 00:16:51,429
+here between the field, the model in the laboratory
+
+244
+00:16:51,429 --> 00:16:52,470
+values as well. It's here. You can see
+
+245
+00:16:52,470 --> 00:16:56,049
+Rosetta's Still, for at least these three sites is
+
+246
+00:16:56,049 --> 00:17:03,370
+underestimating infiltration data, and Rosetta is the input.
+
+247
+00:17:03,370 --> 00:17:07,200
+The Rosetta is strictly particle size analysis, and it
+
+248
+00:17:07,210 --> 00:17:17,349
+doesn't accurately describe complex scenario. So because we saw
+
+249
+00:17:17,349 --> 00:17:22,309
+evidence for Sir official layer at the washing near wash
+
+250
+00:17:22,309 --> 00:17:23,809
+sites, we wanted to test the modeling program to
+
+251
+00:17:23,809 --> 00:17:29,420
+sensitivity the layering. Um, here we did two
+
+252
+00:17:29,420 --> 00:17:32,119
+scenarios, one with the three inch thick silt layer
+
+253
+00:17:32,119 --> 00:17:34,920
+and one with a three inch thick clay layer a
+
+254
+00:17:34,920 --> 00:17:38,890
+different depths of 25 and 10 feet, the low
+
+255
+00:17:38,890 --> 00:17:42,450
+land surface. The first thing to note is that
+
+256
+00:17:44,900 --> 00:17:48,950
+clay would have a lower hydro hydraulic conductivity, and
+
+257
+00:17:48,950 --> 00:17:55,200
+so you would therefore expect the que middle of infiltration
+
+258
+00:17:55,549 --> 00:17:57,029
+to be less for clay than you would sell.
+
+259
+00:17:57,039 --> 00:18:00,680
+You see here from these models that fairly equal.
+
+260
+00:18:02,329 --> 00:18:08,589
+So it's the difference between the permeability of your low
+
+261
+00:18:08,589 --> 00:18:15,460
+permeability layer and surrounding. Alu Veum doesn't control the
+
+262
+00:18:15,460 --> 00:18:18,369
+decrease in your infiltration rate caused by that layer as
+
+263
+00:18:18,369 --> 00:18:23,579
+Muchas, the proximity to the land surface layers close
+
+264
+00:18:23,579 --> 00:18:26,049
+of service, as you can see have a greater
+
+265
+00:18:26,839 --> 00:18:32,240
+effect on infiltration rate, then layers deeper in the
+
+266
+00:18:32,250 --> 00:18:36,670
+subsurface. This also shows that between two and five
+
+267
+00:18:36,670 --> 00:18:38,180
+feet. You start to lose your sensitivity to that
+
+268
+00:18:38,180 --> 00:18:42,569
+layering and anywhere between five and 10 feet. You
+
+269
+00:18:42,569 --> 00:18:48,200
+probably wouldn't predict the late detective layer four models around
+
+270
+00:18:48,740 --> 00:18:51,759
+, uh, at these links, models are on
+
+271
+00:18:51,759 --> 00:18:55,410
+it. Greater links might possibly be able to detect
+
+272
+00:18:55,410 --> 00:19:03,349
+those layers deeper, uh, deeper dubs. So
+
+273
+00:19:03,349 --> 00:19:06,779
+we know the model is sensitive to layering. We
+
+274
+00:19:06,779 --> 00:19:11,720
+have evidence for sir official low permeability layer. And
+
+275
+00:19:11,720 --> 00:19:14,650
+we wanted to test to see if that would have
+
+276
+00:19:14,650 --> 00:19:18,890
+any effect on our model results. So we tested
+
+277
+00:19:18,890 --> 00:19:23,710
+our wash near Washington on wash sites again. Here
+
+278
+00:19:23,710 --> 00:19:26,930
+, in the near wash, we have a 0.75
+
+279
+00:19:26,930 --> 00:19:30,430
+foot thick surface. Layers of the first of upper
+
+280
+00:19:30,630 --> 00:19:34,400
+0.75 feet is a low permeability layer. And you
+
+281
+00:19:34,400 --> 00:19:37,240
+can see that does help us match this in your
+
+282
+00:19:37,240 --> 00:19:41,160
+time data. Better than our scenario where there was
+
+283
+00:19:41,160 --> 00:19:45,470
+no layering. So there is evidence off, sir
+
+284
+00:19:45,470 --> 00:19:48,670
+, official layering here at this site there may be
+
+285
+00:19:48,670 --> 00:19:52,279
+further layering that would cause the better match here with
+
+286
+00:19:52,279 --> 00:19:56,500
+this later time data, you can see here the
+
+287
+00:19:56,500 --> 00:20:00,809
+near wash site, you have slightly better prediction or
+
+288
+00:20:00,809 --> 00:20:04,099
+estimation of infiltration for the near time data with this
+
+289
+00:20:04,099 --> 00:20:08,519
+layered model. Again, it's a 0.75 foot thick
+
+290
+00:20:08,660 --> 00:20:11,420
+surface layer. But once he gets to the late
+
+291
+00:20:11,420 --> 00:20:15,910
+time data, the there's really very little difference.
+
+292
+00:20:18,240 --> 00:20:19,970
+So there is evidence that there possibly could be a
+
+293
+00:20:19,970 --> 00:20:23,619
+surf sir official layer the near wash sites, but
+
+294
+00:20:23,619 --> 00:20:26,299
+it doesn't have as much of an impact on your
+
+295
+00:20:26,299 --> 00:20:29,200
+infiltration rate as it would in the wash sites,
+
+296
+00:20:30,839 --> 00:20:32,710
+and you can see with our non wash sites.
+
+297
+00:20:32,710 --> 00:20:34,670
+There's no difference at all between layered, homogeneous,
+
+298
+00:20:36,240 --> 00:20:41,549
+and therefore there's really no evidence for sir official low
+
+299
+00:20:41,549 --> 00:20:49,730
+permeability layer at the non wash sites. So the
+
+300
+00:20:49,730 --> 00:20:52,029
+results of the modeling was that at the non wash
+
+301
+00:20:52,029 --> 00:20:55,990
+sites, we had a good agreement between modeled and
+
+302
+00:20:55,990 --> 00:21:00,849
+laboratory hydraulic conductivity values, which means that the double
+
+303
+00:21:00,849 --> 00:21:03,720
+ring in full trauma ter is a useful in estimating
+
+304
+00:21:03,720 --> 00:21:07,970
+the rate of water movement through the subsurface. If
+
+305
+00:21:07,970 --> 00:21:12,549
+you're assuming homogeneous, um, hydraulic properties throughout the
+
+306
+00:21:12,559 --> 00:21:19,460
+subsurface, um, any layering for short tests such
+
+307
+00:21:19,460 --> 00:21:23,470
+as we did lesson five hours. I wouldn't tell
+
+308
+00:21:23,470 --> 00:21:27,950
+you any lettering below 2 to 5 feet. Therefore
+
+309
+00:21:27,950 --> 00:21:30,450
+, you may need to do longer test, Um
+
+310
+00:21:33,319 --> 00:21:36,390
+, and again the wash sites. Watch sites should
+
+311
+00:21:36,390 --> 00:21:44,569
+evidence for its official low permeability crossed Um, And
+
+312
+00:21:44,569 --> 00:21:48,839
+so the next step was to do upon simulations to
+
+313
+00:21:48,839 --> 00:21:52,519
+just give a rough estimate of recharge times if these
+
+314
+00:21:52,519 --> 00:21:56,650
+ponds were constructed. Um, we chose site to
+
+315
+00:21:56,660 --> 00:22:02,460
+site for his representative sites of the two recharge areas
+
+316
+00:22:02,460 --> 00:22:06,240
+we discussed earlier. Sightsee being north of the Pencil
+
+317
+00:22:06,240 --> 00:22:08,700
+Mountain Fault in Yuck. Awash in sight for being
+
+318
+00:22:08,700 --> 00:22:11,259
+south of Pinto Mountain Fault. A non watch setting
+
+319
+00:22:12,599 --> 00:22:15,819
+, um, the wedding front reached the water table
+
+320
+00:22:15,819 --> 00:22:21,059
+, which is 400 feet below land surface at about
+
+321
+00:22:21,059 --> 00:22:25,779
+336 hours for a site to which is roughly 14
+
+322
+00:22:25,779 --> 00:22:30,220
+days site for we had a lower infiltration rates.
+
+323
+00:22:30,220 --> 00:22:34,329
+As you'd expect, recharged took longer and was at
+
+324
+00:22:34,329 --> 00:22:38,450
+the war water table 1080 hours or 45 days.
+
+325
+00:22:40,359 --> 00:22:47,089
+Here's the recharge rates that we that were provided by
+
+326
+00:22:47,089 --> 00:22:52,140
+the model site to pond Recharge was 21 feet per
+
+327
+00:22:52,140 --> 00:22:55,539
+day, and Side five recharge was five feet per
+
+328
+00:22:55,539 --> 00:23:00,589
+day. Now these values air extremely low values for
+
+329
+00:23:00,589 --> 00:23:04,029
+recharge times because this model assumes only uniform hydraulic properties
+
+330
+00:23:04,029 --> 00:23:10,430
+throughout unsaturated zone and doesn't account for come compaction with
+
+331
+00:23:10,440 --> 00:23:14,099
+death and consolidation or changes in sub surface geology.
+
+332
+00:23:14,809 --> 00:23:22,099
+Just as a comparison upon and Victorville California recharge was
+
+333
+00:23:22,109 --> 00:23:26,089
+three years and infiltration rate was three feet when it
+
+334
+00:23:26,089 --> 00:23:32,500
+began and decreased 0.5 feet by the time um,
+
+335
+00:23:32,539 --> 00:23:36,789
+recharged began. Um, in the war in basin
+
+336
+00:23:36,789 --> 00:23:38,980
+area, we have a recharge pond where recharge time
+
+337
+00:23:38,980 --> 00:23:42,750
+took about three months so it can vary. But
+
+338
+00:23:42,750 --> 00:23:45,950
+again, these air extremely high values, and you
+
+339
+00:23:45,950 --> 00:23:49,599
+would expect lower values. Teoh changes in the sub
+
+340
+00:23:49,599 --> 00:23:56,750
+surface geology. So the overall conclusions was that the
+
+341
+00:23:56,750 --> 00:24:00,329
+study site in Joshua Tree is suitable for artificial recharge
+
+342
+00:24:00,440 --> 00:24:04,380
+, assuming the uniform hydraulic properties recharged by pond but
+
+343
+00:24:04,380 --> 00:24:11,450
+began at earliest, 14 45 days, Um
+

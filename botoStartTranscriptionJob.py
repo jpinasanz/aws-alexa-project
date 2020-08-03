@@ -8,7 +8,7 @@ import sys
 #an S3 bucket and run a transcription job with the AWS Transcribe service.
 
 
-def b(bucketName,bucketFileDirectory,outputBucketName):
+def startTranscriptionJob(bucketName,bucketFileDirectory,outputBucketName):
     #creates Transcribe job client
     transcribe = boto3.client('transcribe')
     s3 = boto3.client('s3')
@@ -21,24 +21,25 @@ def b(bucketName,bucketFileDirectory,outputBucketName):
     #produce the bucket location for the uri line
     response = s3.get_bucket_location(Bucket=bucketName)
     bucketLocation = response.get('LocationConstraint')
-    
+
     job_uri = "https://"+ bucketName+'.s3-' +bucketLocation +".amazonaws.com/"+ bucketFileDirectory
     print ('\n' +job_uri + '\n')
 
     transcribe.start_transcription_job(
             TranscriptionJobName= job_name,
             Media={'MediaFileUri': job_uri },
-            MediaFormat='mp3',
+            MediaFormat='mp4',
             LanguageCode='en-US',
             OutputBucketName=outputBucketName
             )
-
+    total=0
     while True:
         status=transcribe.get_transcription_job(TranscriptionJobName=job_name)
         if status['TranscriptionJob']['TranscriptionJobStatus']in['COMPLETED', 'FAILED']: break
-        print ("Not ready yet...")
+        print ("Processing file: "+str(total))
+        total=total+5
         time.sleep(5)
-        print(status)
+        #print(status)
 
 if __name__ == '__main__':
     startTranscriptionJob(*sys.argv[1:])

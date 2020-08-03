@@ -1,0 +1,206 @@
+new file download started in /home/ec2-user/testfolder
+/home/sftp_user/ab581692-9ce7-40a3-9f9c-200704b4b9a2.mp4
+file copy has now finished
+started Captioning job
+('file name is: ', 'Test/ab581692-9ce7-40a3-9f9c-200704b4b9a2.mp4')
+Got to this point. Pls Work!
+File Uploaded Successfully!
+
+https://itsawstest.s3-us-west-1.amazonaws.com/Test/ab581692-9ce7-40a3-9f9c-200704b4b9a2.mp4
+
+Processing file: 0
+Processing file: 5
+Processing file: 10
+Processing file: 15
+Processing file: 20
+Processing file: 25
+Processing file: 30
+Processing file: 35
+Processing file: 40
+Processing file: 45
+Processing file: 50
+Processing file: 55
+Processing file: 60
+Processing file: 65
+Processing file: 70
+Processing file: 75
+Processing file: 80
+Processing file: 85
+Processing file: 90
+Processing file: 95
+Processing file: 100
+Processing file: 105
+Processing file: 110
+Processing file: 115
+Processing file: 120
+Processing file: 125
+Processing file: 130
+started transcription job
+transcription job complete
+/home/ec2-user/testfolder/srtOutput/ab581692-9ce7-40a3-9f9c-200704b4b9a2.srt
+==> Creating SRT from transcript
+
+
+finished transcription job
+{'c65ba9cb-dafd-4521-9e15-d28060cdba2a.srt': <open file '/home/ec2-user/testfolder/srtOutput/ab581692-9ce7-40a3-9f9c-200704b4b9a2.srt', mode 'rb' at 0x7fafd1fbf8a0>}
+<Response [201]>
+https://mediasite.sdsu.edu/Mediasite/FileServer/Presentation/ab5816929ce740a39f9c200704b4b9a21d/31a1e1fd-fac7-4aa4-99ab-3e8805ff8e4c.srt?captionTicket=b1a07026-4056-4f6c-83e9-777366980993
+new file download started in /home/sftp_user
+/home/sftp_user/4ab644ea-ec5e-4e14-a50e-88d73168e7de.mp4
+file copy has now finished
+started Captioning job
+('file name is: ', 'Test/4ab644ea-ec5e-4e14-a50e-88d73168e7de.mp4')
+Got to this point. Pls Work!
+File Uploaded Successfully!
+
+https://itsawstest.s3-us-west-1.amazonaws.com/Test/4ab644ea-ec5e-4e14-a50e-88d73168e7de.mp4
+
+Processing file: 0
+Processing file: 5
+Processing file: 10
+Processing file: 15
+Processing file: 20
+Processing file: 25
+Processing file: 30
+Processing file: 35
+Processing file: 40
+Processing file: 45
+Processing file: 50
+Processing file: 55
+Processing file: 60
+Processing file: 65
+Processing file: 70
+Processing file: 75
+Processing file: 80
+Processing file: 85
+Processing file: 90
+Processing file: 95
+Processing file: 100
+Processing file: 105
+Processing file: 110
+Processing file: 115
+Processing file: 120
+Processing file: 125
+Processing file: 130
+Processing file: 135
+Processing file: 140
+Processing file: 145
+Processing file: 150
+Processing file: 155
+Processing file: 160
+Processing file: 165
+started transcription job
+transcription job complete
+/home/ec2-user/testfolder/srtOutput/4ab644ea-ec5e-4e14-a50e-88d73168e7de.srt
+==> Creating SRT from transcript
+
+
+finished transcription job
+{'c65ba9cb-dafd-4521-9e15-d28060cdba2a.srt': <open file '/home/ec2-user/testfolder/srtOutput/4ab644ea-ec5e-4e14-a50e-88d73168e7de.srt', mode 'rb' at 0x7fafd239f810>}
+<Response [201]>
+https://mediasite.sdsu.edu/Mediasite/FileServer/Presentation/4ab644eaec5e4e14a50e88d73168e7de1d/604af6a2-9c83-4d28-b56f-8c989012a0ca.srt?captionTicket=1397c922-dc1b-4f15-a780-b1be1df39ec4
+new file download started in /home/sftp_user
+/home/sftp_user/d155eef9-a10a-4332-bf55-f276c29089e9.mp4
+file copy has now finished
+started Captioning job
+('file name is: ', 'Test/d155eef9-a10a-4332-bf55-f276c29089e9.mp4')
+Got to this point. Pls Work!
+File Uploaded Successfully!
+
+https://itsawstest.s3-us-west-1.amazonaws.com/Test/d155eef9-a10a-4332-bf55-f276c29089e9.mp4
+
+Processing file: 0
+Processing file: 5
+Processing file: 10
+Processing file: 15
+Processing file: 20
+Processing file: 25
+Processing file: 30
+Processing file: 35
+Processing file: 40
+Processing file: 45
+Processing file: 50
+Processing file: 55
+Processing file: 60
+Processing file: 65
+Processing file: 70
+Processing file: 75
+Processing file: 80
+Processing file: 85
+Processing file: 90
+Processing file: 95
+Processing file: 100
+Processing file: 105
+Processing file: 110
+Processing file: 115
+Processing file: 120
+Processing file: 125
+Processing file: 130
+Processing file: 135
+Processing file: 140
+Processing file: 145
+Processing file: 150
+Processing file: 155
+Processing file: 160
+Processing file: 165
+Processing file: 170
+Processing file: 175
+Processing file: 180
+Processing file: 185
+Processing file: 190
+Processing file: 195
+Processing file: 200
+Processing file: 205
+Processing file: 210
+Processing file: 215
+Processing file: 220
+Processing file: 225
+Processing file: 230
+Processing file: 235
+Processing file: 240
+Processing file: 245
+Processing file: 250
+Processing file: 255
+Processing file: 260
+Processing file: 265
+Processing file: 270
+Processing file: 275
+Processing file: 280
+Processing file: 285
+Processing file: 290
+Processing file: 295
+Processing file: 300
+Processing file: 305
+Processing file: 310
+Processing file: 315
+Processing file: 320
+Processing file: 325
+Processing file: 330
+Processing file: 335
+Processing file: 340
+Processing file: 345
+Processing file: 350
+Processing file: 355
+Processing file: 360
+Processing file: 365
+Processing file: 370
+Processing file: 375
+Processing file: 380
+Processing file: 385
+Processing file: 390
+Processing file: 395
+Processing file: 400
+Processing file: 405
+Processing file: 410
+Processing file: 415
+Processing file: 420
+started transcription job
+transcription job complete
+/home/ec2-user/testfolder/srtOutput/d155eef9-a10a-4332-bf55-f276c29089e9.srt
+==> Creating SRT from transcript
+
+
+finished transcription job
+{'c65ba9cb-dafd-4521-9e15-d28060cdba2a.srt': <open file '/home/ec2-user/testfolder/srtOutput/d155eef9-a10a-4332-bf55-f276c29089e9.srt', mode 'rb' at 0x7fafd24c65d0>}
+<Response [201]>
+https://mediasite.sdsu.edu/Mediasite/FileServer/Presentation/d155eef9a10a4332bf55f276c29089e91d/8a4ab2df-d16e-46d7-b70b-254231927581.srt?captionTicket=5056801c-4886-41e9-8c7f-1d51539d36da

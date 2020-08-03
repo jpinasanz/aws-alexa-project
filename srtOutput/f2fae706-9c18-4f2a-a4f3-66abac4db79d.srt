@@ -1,0 +1,3048 @@
+1
+00:00:09,539 --> 00:00:49,299
+What? No. Yeah. Are you right?
+
+2
+00:00:52,140 --> 00:01:15,930
+One thing. No, no. Four. Allow
+
+3
+00:01:15,939 --> 00:01:32,900
+people what I could find a way friend part ready
+
+4
+00:01:32,920 --> 00:02:00,340
+for one. You know, woman Now. And
+
+5
+00:02:00,680 --> 00:02:13,250
+what over. But what you have? Yeah,
+
+6
+00:02:15,539 --> 00:02:58,389
+this one on What? No, I work that
+
+7
+00:02:58,400 --> 00:04:03,270
+way. Important. Yeah. Yeah, about Thank
+
+8
+00:04:03,270 --> 00:04:05,259
+you so much for the kind introduction, Erik.
+
+9
+00:04:06,259 --> 00:04:10,129
+So as he mentioned, this work has been done
+
+10
+00:04:10,129 --> 00:04:13,780
+in conjunction with two universities universities, Gajah Mada in
+
+11
+00:04:13,789 --> 00:04:15,649
+Indonesia and, of course, San Diego State University
+
+12
+00:04:16,089 --> 00:04:18,819
+. So since this is being recorded, I'd like
+
+13
+00:04:18,819 --> 00:04:21,930
+to say a few words to the Indonesian audience that
+
+14
+00:04:21,930 --> 00:04:25,850
+will be viewing this at some point climates young to
+
+15
+00:04:25,850 --> 00:04:28,519
+go and took part of when you actually gone.
+
+16
+00:04:28,529 --> 00:04:31,069
+Sudan Who messed it up when we start over Namazi
+
+17
+00:04:31,069 --> 00:04:35,449
+Younggu bigger and took Farahat Dhiren young men. Mexican
+
+18
+00:04:36,389 --> 00:04:40,850
+president has testes side Indonesia. That simply means thank
+
+19
+00:04:40,850 --> 00:04:45,259
+you for the Indonesian audience. So the thesis title
+
+20
+00:04:45,269 --> 00:04:48,149
+is using the analytic hierarchy process, or hp to
+
+21
+00:04:48,149 --> 00:04:53,550
+identify areas of potential slope instability incurring on your Indonesia
+
+22
+00:04:54,319 --> 00:04:56,560
+. I will be using the term landslide quite often
+
+23
+00:04:56,560 --> 00:04:58,670
+in this presentation. So I'd like to define what
+
+24
+00:04:58,680 --> 00:05:01,060
+that means. It is defined by Barnes, 1978
+
+25
+00:05:01,069 --> 00:05:04,040
+. As a downward outward movement of slow for materials
+
+26
+00:05:04,040 --> 00:05:06,759
+composed of land, rock or combination, it could
+
+27
+00:05:06,759 --> 00:05:13,310
+be further subdivided by geoscientists by material mechanism of movement
+
+28
+00:05:13,319 --> 00:05:15,310
+and rate of movement. But for this presentation,
+
+29
+00:05:15,310 --> 00:05:17,230
+I will be using the term landslide to refer to
+
+30
+00:05:17,240 --> 00:05:21,160
+any form of slope failure. Now, I also
+
+31
+00:05:21,160 --> 00:05:24,850
+like to introduce the concept of hazard and risk.
+
+32
+00:05:25,240 --> 00:05:29,079
+Hazard is the probability of occurrence of a certain geological
+
+33
+00:05:29,079 --> 00:05:30,519
+event, such as a landslide to occur in a
+
+34
+00:05:30,519 --> 00:05:34,350
+particular area. Risk is the potential of economic or
+
+35
+00:05:34,350 --> 00:05:38,750
+social loss that may occur from that hazard geological event
+
+36
+00:05:39,139 --> 00:05:42,339
+. So seeing this infographic hazards on the left assets
+
+37
+00:05:42,339 --> 00:05:44,680
+on the right where they overlap is risk. Now
+
+38
+00:05:45,009 --> 00:05:46,779
+, in this presentation, I'll be using the term
+
+39
+00:05:46,779 --> 00:05:49,189
+landslide hazard susceptibility. What I mean by that is
+
+40
+00:05:49,199 --> 00:05:53,279
+the probability of occurrence of any form of soap failure
+
+41
+00:05:53,569 --> 00:05:57,470
+in a particular area. So this study is based
+
+42
+00:05:57,470 --> 00:05:59,490
+in Indonesia, and I'd like to give some background
+
+43
+00:05:59,490 --> 00:06:03,480
+there. Indonesia is composed of more than 13,600 islands
+
+44
+00:06:03,870 --> 00:06:08,120
+. Five of them are considered the large principal islands
+
+45
+00:06:08,399 --> 00:06:11,060
+, but about 6000 of them are inhabited. The
+
+46
+00:06:11,060 --> 00:06:15,829
+population is about 250 million people. Compared to United
+
+47
+00:06:15,829 --> 00:06:18,129
+States, which is about 320 million people. Here
+
+48
+00:06:18,129 --> 00:06:20,879
+in Indonesia, the population is not evenly distributed.
+
+49
+00:06:20,879 --> 00:06:24,100
+In fact, on the island of Java, about
+
+50
+00:06:24,100 --> 00:06:26,720
+60% of the people live. It's about 150 million
+
+51
+00:06:26,720 --> 00:06:29,839
+people, and that's where this study is based to
+
+52
+00:06:29,839 --> 00:06:31,959
+give a little background on the regional geology. The
+
+53
+00:06:32,399 --> 00:06:36,670
+story here is heavily influenced by the conversion interaction of
+
+54
+00:06:36,670 --> 00:06:40,490
+three major tectonic plates, the Eurasian plate in the
+
+55
+00:06:40,490 --> 00:06:44,199
+north east, abducting Indian Australian plate in the south
+
+56
+00:06:44,480 --> 00:06:46,949
+and the east, the Pacific Plate in the east
+
+57
+00:06:48,420 --> 00:06:51,480
+, Indonesia as a nation has been consecutively ranked two
+
+58
+00:06:51,480 --> 00:06:54,660
+or three. That second or third as a nation
+
+59
+00:06:54,660 --> 00:06:59,589
+worldwide in terms of fatalities attributed to rain triggered landslides
+
+60
+00:07:00,269 --> 00:07:01,980
+. And I'm going to try to explain why that
+
+61
+00:07:01,980 --> 00:07:06,639
+is briefly so. This conversion margin here is called
+
+62
+00:07:06,639 --> 00:07:09,410
+the Soon Arc. It is one of the most
+
+63
+00:07:09,410 --> 00:07:12,519
+classic volcanic arc localities in the world, with a
+
+64
+00:07:12,519 --> 00:07:15,490
+well defined trench in a four arc basin defined by
+
+65
+00:07:15,490 --> 00:07:18,889
+the islands of Java and Sumatra. This conversion margin
+
+66
+00:07:18,889 --> 00:07:23,089
+has produced some very nasty earthquakes, including the 9.3
+
+67
+00:07:23,089 --> 00:07:26,819
+magnitude earthquake in 2000 for which created a tsunami that
+
+68
+00:07:26,829 --> 00:07:30,610
+garnered worldwide attention. In addition, it's also home
+
+69
+00:07:30,610 --> 00:07:32,579
+to some of the most explosive historic volcanic eruptions,
+
+70
+00:07:32,579 --> 00:07:36,750
+such as Oba Tambora Krakatoa, in addition to many
+
+71
+00:07:36,759 --> 00:07:40,589
+others. So if you were to get in an
+
+72
+00:07:40,589 --> 00:07:42,569
+airplane and look out in the horizon on the island
+
+73
+00:07:42,569 --> 00:07:44,509
+of Java, seen here is a picture of Mount
+
+74
+00:07:44,509 --> 00:07:47,879
+Merapi and Mountain More Babu. You would see volcano
+
+75
+00:07:47,879 --> 00:07:51,519
+after volcano back after volcano, all these volcanic edifices
+
+76
+00:07:51,519 --> 00:07:56,569
+off into the distance. And besides Theseventies that these
+
+77
+00:07:56,569 --> 00:08:01,550
+create which are quitter. Neri, relatively sensitive to
+
+78
+00:08:01,550 --> 00:08:05,029
+slope failure, Ashes plays, lahar, flow deposits
+
+79
+00:08:05,139 --> 00:08:07,209
+, things of that nature. They're also very steep
+
+80
+00:08:07,939 --> 00:08:11,550
+, and there are a lot of people living in
+
+81
+00:08:11,550 --> 00:08:13,490
+these areas directly on the flanks of these volcanoes,
+
+82
+00:08:13,490 --> 00:08:18,560
+as seen in this image. In addition, I
+
+83
+00:08:18,560 --> 00:08:18,870
+would like to remind you that we are on the
+
+84
+00:08:18,870 --> 00:08:22,430
+equator, where rainfall is above average compared to the
+
+85
+00:08:22,430 --> 00:08:24,149
+rest of the world. So all of these things
+
+86
+00:08:24,360 --> 00:08:28,139
+come together to lead to a situation where landslides are
+
+87
+00:08:28,139 --> 00:08:33,559
+very prevalent. So coming back into Java island where
+
+88
+00:08:33,559 --> 00:08:35,399
+the study is based, I'd like to draw attention
+
+89
+00:08:35,399 --> 00:08:37,820
+on this geological map by Smith at all 2008 to
+
+90
+00:08:37,820 --> 00:08:43,970
+this band of volcanic centres signified by these red triangles
+
+91
+00:08:43,980 --> 00:08:46,850
+on this map and surrounding each of them is a
+
+92
+00:08:46,850 --> 00:08:50,289
+lavender polygon which represents soon arc sediments. The sooner
+
+93
+00:08:50,289 --> 00:08:56,250
+our sentiments are composed of lahar flow deposits, ash
+
+94
+00:08:56,259 --> 00:09:01,110
+and clay layers, wretches and usually under lane by
+
+95
+00:09:01,600 --> 00:09:05,929
+massive and decide blocks with no significant betting and tertiary
+
+96
+00:09:05,929 --> 00:09:09,500
+limestone, my field area is located on the flanks
+
+97
+00:09:09,500 --> 00:09:11,490
+directly in one of these soon arc sentiment polygons right
+
+98
+00:09:11,490 --> 00:09:15,470
+here, seen by this red box, the moving
+
+99
+00:09:15,470 --> 00:09:16,470
+closer to my field area, which is called carne
+
+100
+00:09:16,470 --> 00:09:20,399
+on your regency in Central Java, Indonesia. A
+
+101
+00:09:20,399 --> 00:09:22,769
+Regency, by the way, is a second level
+
+102
+00:09:22,789 --> 00:09:26,289
+administrative division, which means it's equivalent to a county
+
+103
+00:09:26,559 --> 00:09:30,419
+in American terms. And this is a slope shaded
+
+104
+00:09:30,419 --> 00:09:33,059
+GM map of this, uh, study area,
+
+105
+00:09:33,350 --> 00:09:35,830
+and I hope you can see that it ranges from
+
+106
+00:09:35,830 --> 00:09:37,980
+70 meters at its lowest to 3300 meters at its
+
+107
+00:09:39,059 --> 00:09:41,259
+highest, and it includes the peak of Mount Lau
+
+108
+00:09:41,259 --> 00:09:45,169
+, which is the volcanic centre that is in this
+
+109
+00:09:45,169 --> 00:09:48,129
+area. No matter how is not an active volcano
+
+110
+00:09:48,139 --> 00:09:50,850
+. It has had a last eruption in 18 85
+
+111
+00:09:52,440 --> 00:09:54,809
+. But regardless, the geology of this region is
+
+112
+00:09:54,809 --> 00:09:58,980
+totally dominated by loud products. This is largest polygon
+
+113
+00:09:58,980 --> 00:10:01,250
+here on the geology map, which is the lahar
+
+114
+00:10:01,259 --> 00:10:05,059
+deposits from outlaw do and seen over here in light
+
+115
+00:10:05,059 --> 00:10:09,480
+blue is Critter Neri lower products, which is tends
+
+116
+00:10:09,480 --> 00:10:13,379
+to be exposed, and a site and bridges.
+
+117
+00:10:13,639 --> 00:10:16,870
+There are some other units here that are derived from
+
+118
+00:10:16,879 --> 00:10:20,330
+other volcanoes in neighbouring regions that have caused eruptions that
+
+119
+00:10:20,330 --> 00:10:22,549
+were explosive enough to deposit sentiments within this field area
+
+120
+00:10:24,389 --> 00:10:26,129
+. And there are also some small outcrops, relatively
+
+121
+00:10:26,129 --> 00:10:31,899
+small of tertiary and a site and limestone. Now
+
+122
+00:10:31,899 --> 00:10:33,809
+, before I talk too much about my master's thesis
+
+123
+00:10:33,809 --> 00:10:35,669
+, I want to introduce the problem here by talking
+
+124
+00:10:35,669 --> 00:10:39,990
+about my bachelors thesis. I went to Indonesia for
+
+125
+00:10:39,990 --> 00:10:43,000
+the first time in 2011 and did a program that
+
+126
+00:10:43,000 --> 00:10:46,460
+was a community empowerment program that had the goal of
+
+127
+00:10:46,460 --> 00:10:50,080
+developing and applying a method to teach. Indonesian nationals
+
+128
+00:10:50,080 --> 00:10:52,330
+had attacked hazard and risk from landslides, and as
+
+129
+00:10:52,330 --> 00:10:54,929
+a result of that, I also produced what I
+
+130
+00:10:54,929 --> 00:11:00,429
+called a landslide hazard susceptibility map where the green polygons
+
+131
+00:11:00,429 --> 00:11:03,629
+are meant to signify low hazard susceptibility and the red
+
+132
+00:11:03,629 --> 00:11:05,809
+ones are meant to signify high hazard susceptibility. But
+
+133
+00:11:05,809 --> 00:11:07,590
+I'd like to point out here that there's a lot
+
+134
+00:11:07,590 --> 00:11:11,860
+of blank spaces on this map, and that's because
+
+135
+00:11:11,860 --> 00:11:15,059
+the primary method I used to create this was visual
+
+136
+00:11:15,059 --> 00:11:18,100
+observation. I was out there looking for signs of
+
+137
+00:11:18,100 --> 00:11:22,830
+cracking signs of past landslide events, things of that
+
+138
+00:11:22,830 --> 00:11:26,529
+nature or active landslides using the hypothesis that areas where
+
+139
+00:11:26,529 --> 00:11:28,919
+there has been passed land sliders, active landslide,
+
+140
+00:11:28,929 --> 00:11:31,450
+there will be landslides in the future. But I
+
+141
+00:11:31,450 --> 00:11:33,149
+wasn't able to go to all these places because being
+
+142
+00:11:33,149 --> 00:11:39,039
+foreign and also there's a lot of steep topography and
+
+143
+00:11:39,039 --> 00:11:41,029
+a lot of dense vegetation and not a lot of
+
+144
+00:11:41,029 --> 00:11:45,049
+roads in the traditional sense that we know them.
+
+145
+00:11:45,440 --> 00:11:46,940
+Um, so this is was this was the result
+
+146
+00:11:46,940 --> 00:11:50,389
+of of that work. Now, the people that
+
+147
+00:11:50,389 --> 00:11:54,019
+I was doing this community empowerment project with, we're
+
+148
+00:11:54,019 --> 00:11:54,929
+doing this for class. They're doing this for the
+
+149
+00:11:54,929 --> 00:11:58,879
+requirements for bachelors graduation at the university s Gaja monitor
+
+150
+00:11:58,889 --> 00:12:03,070
+, and they went forward and they extrapolated out into
+
+151
+00:12:03,220 --> 00:12:05,639
+the entire region of plus or a Joe, which
+
+152
+00:12:05,639 --> 00:12:07,889
+is about 11 square kilometres. And if you notice
+
+153
+00:12:07,889 --> 00:12:11,669
+here, there are some V shaped topography lines that
+
+154
+00:12:11,669 --> 00:12:16,779
+indicate either ridges and valleys that are kind of blanket
+
+155
+00:12:16,779 --> 00:12:18,990
+it as green. I don't know the methods that
+
+156
+00:12:18,000 --> 00:12:20,690
+they used to extrapolated here cause it wasn't published.
+
+157
+00:12:20,700 --> 00:12:24,450
+It was turned in for an assignment at a university
+
+158
+00:12:24,940 --> 00:12:26,789
+. But I have a sneaking suspicion that it wasn't
+
+159
+00:12:26,789 --> 00:12:28,759
+very statistical. And the only reason I'm showing you
+
+160
+00:12:28,759 --> 00:12:31,649
+this map is to point out that we could probably
+
+161
+00:12:31,649 --> 00:12:37,399
+do a more justified job at making a landslide hazard
+
+162
+00:12:37,399 --> 00:12:39,250
+map. And that's the objective of this thesis.
+
+163
+00:12:39,639 --> 00:12:41,909
+To make a landslide hazard separately, Map for cargo
+
+164
+00:12:41,909 --> 00:12:46,110
+on your Central Java that uses and tests HP or
+
+165
+00:12:46,120 --> 00:12:50,629
+analytic hierarchy process as a slope. Instability predictor references
+
+166
+00:12:50,629 --> 00:12:54,350
+. Existing landslides assigns weights to slope instability or physical
+
+167
+00:12:54,350 --> 00:12:58,950
+conditions that lead to slope instability and extrapolates those weights
+
+168
+00:12:58,950 --> 00:13:01,820
+to outside areas. So this is what the animal
+
+169
+00:13:01,820 --> 00:13:05,269
+Karki process looks like an equation form. The goal
+
+170
+00:13:05,269 --> 00:13:07,490
+of it is to obtain an L S I value
+
+171
+00:13:07,490 --> 00:13:11,830
+, which indicates how much hazard there is. What's
+
+172
+00:13:11,830 --> 00:13:13,870
+the probability of a landslide to occur in that area
+
+173
+00:13:13,870 --> 00:13:16,820
+? It's a numeric value that is found by the
+
+174
+00:13:16,820 --> 00:13:20,129
+some of factor weights, times class weights, and
+
+175
+00:13:20,129 --> 00:13:22,649
+it will be easier to show this visually. So
+
+176
+00:13:22,139 --> 00:13:24,870
+let's say I have a set of physical conditions.
+
+177
+00:13:24,879 --> 00:13:28,889
+These are my factors. These are categories of physical
+
+178
+00:13:28,889 --> 00:13:31,409
+conditions such a slope. Steepness, geology, land
+
+179
+00:13:31,409 --> 00:13:35,090
+use, river proximity. This is just an example
+
+180
+00:13:35,090 --> 00:13:35,809
+. This whole thing is a demonstration to show you
+
+181
+00:13:35,809 --> 00:13:39,809
+how this is done. All of them are assigned
+
+182
+00:13:39,809 --> 00:13:43,159
+factor weights now on each factor. There are also
+
+183
+00:13:43,159 --> 00:13:45,870
+a set of classes. So in this case I
+
+184
+00:13:45,870 --> 00:13:50,419
+have three classes of slope steepness, which are ranging
+
+185
+00:13:50,429 --> 00:13:52,590
+There been numbers to indicate what is the slope steepness
+
+186
+00:13:52,590 --> 00:13:54,679
+? In what group does it fall in? So
+
+187
+00:13:54,679 --> 00:13:58,259
+let's say I have a slope steepness of 55 degrees
+
+188
+00:13:58,259 --> 00:14:00,980
+in a particular area. That means the class wait
+
+189
+00:14:00,990 --> 00:14:03,830
+in that area would be 550.7. I would multiply
+
+190
+00:14:03,830 --> 00:14:07,610
+that by one to have an overall contributing value to
+
+191
+00:14:07,610 --> 00:14:11,909
+the Ellis I of 0.7. Now, how then
+
+192
+00:14:11,919 --> 00:14:15,629
+do I get these factor in class weights? This
+
+193
+00:14:15,639 --> 00:14:18,549
+is done through the analytic hierarchy process via pair wise
+
+194
+00:14:18,549 --> 00:14:22,850
+comparison. So, for example, I'm going to
+
+195
+00:14:22,019 --> 00:14:24,809
+present three factors. Let's call them A B and
+
+196
+00:14:24,809 --> 00:14:28,409
+C. So let's say I know through theory or
+
+197
+00:14:28,409 --> 00:14:33,230
+observation, that B is twice as important to landslide
+
+198
+00:14:33,230 --> 00:14:39,509
+generation or a influencing slope. Instability as a following
+
+199
+00:14:39,519 --> 00:14:41,649
+A is twice as influential to soap instability at sea
+
+200
+00:14:43,340 --> 00:14:45,960
+and finally be is three times as influential to slope
+
+201
+00:14:45,960 --> 00:14:48,049
+instability as C. I then have these numbers,
+
+202
+00:14:48,049 --> 00:14:50,240
+which I can arrange in a matrix form and there
+
+203
+00:14:50,250 --> 00:14:52,740
+in verses here and I can solve for the principal
+
+204
+00:14:52,750 --> 00:14:56,409
+Eigen Vector, which gives me a consistency ratio.
+
+205
+00:14:56,419 --> 00:15:00,210
+The consistency ratio in this case is 30.79 tells me
+
+206
+00:15:00,210 --> 00:15:03,570
+how consistent my comparison values are. If I was
+
+207
+00:15:03,570 --> 00:15:05,659
+, for example to say that C is much more
+
+208
+00:15:05,720 --> 00:15:09,429
+important, then be in this case, then my
+
+209
+00:15:09,429 --> 00:15:13,529
+consistency value would shoot up because I've already established a
+
+210
+00:15:13,529 --> 00:15:15,750
+relationship between A. B and C, and it
+
+211
+00:15:15,750 --> 00:15:18,350
+wouldn't logically follow. But in this case, like
+
+212
+00:15:18,350 --> 00:15:22,240
+consistency, value is sufficiently low. Satti, 1980
+
+213
+00:15:22,240 --> 00:15:24,539
+who designed this is a decision making model so that
+
+214
+00:15:24,539 --> 00:15:28,679
+10% or less with sufficient so in this case were
+
+215
+00:15:28,679 --> 00:15:31,029
+much lower than that so we can move on now
+
+216
+00:15:31,029 --> 00:15:35,539
+. I set up my matrix again and I take
+
+217
+00:15:35,549 --> 00:15:39,429
+the sum of every column here, and then I
+
+218
+00:15:39,429 --> 00:15:43,000
+divide each cell individually by that some to create a
+
+219
+00:15:43,009 --> 00:15:46,549
+table of decimals, which is then produces a row
+
+220
+00:15:46,549 --> 00:15:50,639
+that could be averaged in my final average for this
+
+221
+00:15:50,909 --> 00:15:54,429
+outcome is my factor. Wait. So in this
+
+222
+00:15:54,429 --> 00:15:58,019
+case, based on my comparison assumptions for A B
+
+223
+00:15:58,019 --> 00:16:02,149
+and C, I produced a outcome that said Be
+
+224
+00:16:02,159 --> 00:16:04,659
+is my most influential to landslide generation, followed by
+
+225
+00:16:04,669 --> 00:16:10,230
+a followed by sea. So how do I apply
+
+226
+00:16:10,230 --> 00:16:12,879
+this to map generation? Well, this could be
+
+227
+00:16:12,879 --> 00:16:19,529
+done using raptors raster images and raster czar matrix arrangements
+
+228
+00:16:19,529 --> 00:16:25,179
+of numbers that can be used to depict map or
+
+229
+00:16:25,440 --> 00:16:27,269
+a raise of information. This is commonly how Slope
+
+230
+00:16:27,269 --> 00:16:30,389
+D. M's slope shaded D. M's are presented
+
+231
+00:16:30,850 --> 00:16:33,440
+, where you have a pixel that has a certain
+
+232
+00:16:33,440 --> 00:16:34,899
+resolution and a number is attached to it, and
+
+233
+00:16:34,899 --> 00:16:37,419
+then you have it displayed over in array. Now
+
+234
+00:16:37,429 --> 00:16:41,559
+, my goal in this study is to providing ls
+
+235
+00:16:41,559 --> 00:16:45,820
+I value for every pixel. So every pixel in
+
+236
+00:16:45,820 --> 00:16:48,019
+map format is going to have a certain slope steepness
+
+237
+00:16:48,019 --> 00:16:49,509
+value a certain geology, a certain land use certain
+
+238
+00:16:49,509 --> 00:16:52,600
+river proximity value. And if I have my factor
+
+239
+00:16:52,600 --> 00:16:56,440
+and class waits for all of these physical conditions,
+
+240
+00:16:56,440 --> 00:16:59,389
+and I can assign an l S I value across
+
+241
+00:16:59,389 --> 00:17:03,200
+the whole thing with the goal of detecting where is
+
+242
+00:17:03,210 --> 00:17:07,450
+the best fit area for landslide initiation or the highest
+
+243
+00:17:08,180 --> 00:17:14,430
+configuration of slope instability factors? This has been applied
+
+244
+00:17:14,430 --> 00:17:17,269
+in other field areas in terms of landslide hazard in
+
+245
+00:17:17,279 --> 00:17:18,789
+Iran, China, Nepal and Turkey, for example
+
+246
+00:17:19,150 --> 00:17:22,690
+. And they all found it somehow relevant to landslide
+
+247
+00:17:22,700 --> 00:17:25,329
+hazard analysis. They all had different hypotheses in different
+
+248
+00:17:25,329 --> 00:17:30,019
+objectives, but they all found it somewhat applicable to
+
+249
+00:17:30,019 --> 00:17:30,730
+this study. And the reason I'm putting the slide
+
+250
+00:17:30,730 --> 00:17:33,380
+here is just to demonstrate that I'm not the 1st
+
+251
+00:17:33,380 --> 00:17:37,150
+1 to have tried this. Now we'll talk about
+
+252
+00:17:37,150 --> 00:17:40,589
+my field area specifically. One point I'd like to
+
+253
+00:17:40,589 --> 00:17:42,980
+mention straight away is that I received a very important
+
+254
+00:17:42,990 --> 00:17:47,720
+bit of information from Luke Weidman and his bachelor's thesis
+
+255
+00:17:47,730 --> 00:17:52,190
+Weidmann 2014 because he did a community service apartment program
+
+256
+00:17:52,190 --> 00:17:53,230
+just like I did, but in a different area
+
+257
+00:17:53,230 --> 00:17:56,460
+in a different year, within the same blanket scarring
+
+258
+00:17:56,460 --> 00:18:00,450
+on your regency. And during his study, he
+
+259
+00:18:00,450 --> 00:18:04,109
+produced a inventory of evidence for slope instability as seen
+
+260
+00:18:04,119 --> 00:18:07,589
+here for an area called Step on John, which
+
+261
+00:18:07,589 --> 00:18:10,519
+is about six square kilometers now. Also for step
+
+262
+00:18:10,519 --> 00:18:11,769
+on, John, I have river network information,
+
+263
+00:18:11,779 --> 00:18:15,299
+land use, inroads, geology and topography data and
+
+264
+00:18:15,299 --> 00:18:19,269
+therefore have slope steepness. So these are the factors
+
+265
+00:18:19,269 --> 00:18:22,900
+I used in my HP model dark boxes. Here
+
+266
+00:18:22,900 --> 00:18:27,359
+are my factors and the lighter red boxes are the
+
+267
+00:18:27,940 --> 00:18:32,440
+classes within each factor. So how do I compare
+
+268
+00:18:32,440 --> 00:18:34,079
+these on a pair wise basis in order to get
+
+269
+00:18:34,079 --> 00:18:37,230
+my factor in class weights? Well, three of
+
+270
+00:18:37,230 --> 00:18:40,109
+these factors air numerical in nature, so that presents
+
+271
+00:18:40,109 --> 00:18:42,619
+a unique opportunity for me to do trend analysis between
+
+272
+00:18:42,619 --> 00:18:45,930
+my slope instability, evidence in step on junk and
+
+273
+00:18:45,930 --> 00:18:49,869
+these numerical values. For example, using distance to
+
+274
+00:18:49,869 --> 00:18:53,569
+roads here, I overlay distance to road polygons,
+
+275
+00:18:53,569 --> 00:18:57,660
+which are made with 40 meter increments made arbitrarily.
+
+276
+00:18:57,660 --> 00:19:00,549
+But now I can check to see if it actually
+
+277
+00:19:00,960 --> 00:19:04,200
+is related to anything on the ground. My goal
+
+278
+00:19:04,200 --> 00:19:07,490
+here is to figure out how much slope instability evidence
+
+279
+00:19:07,500 --> 00:19:10,660
+falls within each of these polygon. So if there
+
+280
+00:19:10,670 --> 00:19:12,890
+is to be a relationship between roads, distance two
+
+281
+00:19:12,890 --> 00:19:17,809
+roads that I'm assuming which is distance Saros road cuts
+
+282
+00:19:17,809 --> 00:19:21,960
+causes mawr exacerbation of slope instability and therefore landslides,
+
+283
+00:19:21,960 --> 00:19:23,869
+and there should be mawr evidence for landslides close with
+
+284
+00:19:23,869 --> 00:19:26,809
+roads and less and less as we get away from
+
+285
+00:19:26,809 --> 00:19:29,940
+it and that's exactly what we see for the most
+
+286
+00:19:29,950 --> 00:19:30,799
+part. So it looks like there is a negative
+
+287
+00:19:30,799 --> 00:19:37,299
+correlation between increasing percent area affected and distance from roads
+
+288
+00:19:37,299 --> 00:19:40,910
+, with the exception of 202 140 meters, which
+
+289
+00:19:40,910 --> 00:19:42,180
+of course, is explained by the fact that distance
+
+290
+00:19:42,180 --> 00:19:45,589
+the road is not the only reason are landslides in
+
+291
+00:19:45,589 --> 00:19:48,940
+this field area. So I also did this with
+
+292
+00:19:48,940 --> 00:19:52,269
+my other numerical values, including slope, steepness and
+
+293
+00:19:52,410 --> 00:19:55,549
+distance from rivers. And it turned out that slope
+
+294
+00:19:55,549 --> 00:20:00,380
+steepness appears to be the most related correlative to landslide
+
+295
+00:20:00,390 --> 00:20:03,089
+evidence and distance rivers that appears to be quite randomly
+
+296
+00:20:03,089 --> 00:20:07,549
+distributed. It happens to be the least related using
+
+297
+00:20:07,549 --> 00:20:12,160
+this method to my landslide inventory or evidence for slope
+
+298
+00:20:12,160 --> 00:20:17,190
+instability from Weidmann 2014 and that means that doesn't mean
+
+299
+00:20:17,190 --> 00:20:18,069
+that we can't use it. But the assumption here
+
+300
+00:20:18,069 --> 00:20:21,920
+is that it should be compared lower in terms of
+
+301
+00:20:21,920 --> 00:20:25,240
+the comparison data. So how then do I include
+
+302
+00:20:25,240 --> 00:20:26,609
+non numerical factors such as mythology and land use?
+
+303
+00:20:27,039 --> 00:20:30,849
+Well, I had to rely on some subjective assumptions
+
+304
+00:20:30,240 --> 00:20:33,299
+uh, the elements considered where data type, What
+
+305
+00:20:33,299 --> 00:20:36,440
+is the data actually showing me in the case of
+
+306
+00:20:36,440 --> 00:20:37,569
+geology. I have a map but doesn't have anything
+
+307
+00:20:37,569 --> 00:20:41,650
+about betting. Doesn't have anything about the soil thickness
+
+308
+00:20:41,900 --> 00:20:45,210
+. Is a parent geology or is it surface geology
+
+309
+00:20:45,210 --> 00:20:47,130
+? Well, in this case, it didn't have
+
+310
+00:20:47,130 --> 00:20:49,150
+any information about betting. Didn't have anything about the
+
+311
+00:20:49,339 --> 00:20:52,200
+type of soil above it or the thickness of soil
+
+312
+00:20:52,200 --> 00:20:56,039
+. So therefore, I weighed surface manifestations such as
+
+313
+00:20:56,049 --> 00:21:00,349
+slope steepness and land use higher than geology. In
+
+314
+00:21:00,349 --> 00:21:03,869
+this case, I also consider data quality. What
+
+315
+00:21:03,869 --> 00:21:07,079
+was the resolution in the date that the data was
+
+316
+00:21:07,079 --> 00:21:10,349
+taken and some references that have used HP and fast
+
+317
+00:21:10,839 --> 00:21:12,460
+. So based on this pair wise comparison, my
+
+318
+00:21:12,460 --> 00:21:15,500
+weight values ended up being slope steepness is the highest
+
+319
+00:21:15,500 --> 00:21:19,710
+contributor to slope instability, followed by land use,
+
+320
+00:21:19,720 --> 00:21:22,660
+and then finally, distance to river at the end
+
+321
+00:21:23,220 --> 00:21:25,660
+. So how then do I move on and get
+
+322
+00:21:25,660 --> 00:21:26,670
+my class weights? Well, this is done in
+
+323
+00:21:26,670 --> 00:21:29,680
+a similar way. I over laid each of my
+
+324
+00:21:29,680 --> 00:21:34,730
+factors individually with the evidence for landslide or slope instability
+
+325
+00:21:36,390 --> 00:21:37,920
+, and what I was trying to do here is
+
+326
+00:21:37,920 --> 00:21:41,809
+try to figure out how much evidence for slope instability
+
+327
+00:21:41,809 --> 00:21:45,519
+falls within each class. With the hypothesis again that
+
+328
+00:21:45,529 --> 00:21:48,970
+areas that show past land sliding or current land sliding
+
+329
+00:21:48,269 --> 00:21:51,819
+will show land sliding in the future. So in
+
+330
+00:21:51,819 --> 00:21:52,940
+this case, the case of land use, I
+
+331
+00:21:52,940 --> 00:21:56,940
+found that the most evidence for slope instability is within
+
+332
+00:21:56,940 --> 00:22:00,079
+the settlement presidential areas, followed by the lower basis
+
+333
+00:22:00,079 --> 00:22:03,630
+plant, paddy fields and the agriculture. Now the
+
+334
+00:22:03,630 --> 00:22:06,769
+way I did. My pair wise comparison of these
+
+335
+00:22:06,769 --> 00:22:10,970
+classes is proportional to the size of these bars.
+
+336
+00:22:11,220 --> 00:22:12,809
+So in this case it looks like settlement Residential is
+
+337
+00:22:12,809 --> 00:22:17,079
+a little bit under twice is biggest lower basis plant
+
+338
+00:22:17,460 --> 00:22:18,920
+and just a bit bigger than Patty Field. So
+
+339
+00:22:18,920 --> 00:22:22,079
+when I made my comparison values, I ended up
+
+340
+00:22:22,089 --> 00:22:26,130
+comparing them in such a way that made class weights
+
+341
+00:22:26,140 --> 00:22:29,359
+that are proportional to go to that graph proportional to
+
+342
+00:22:29,359 --> 00:22:33,329
+the evidence for slope instability found within them. I
+
+343
+00:22:33,329 --> 00:22:36,059
+did this for all of my classes and all of
+
+344
+00:22:36,059 --> 00:22:38,569
+my factors to create unique values for each glass and
+
+345
+00:22:38,569 --> 00:22:41,799
+each factor, and therefore be able to apply the
+
+346
+00:22:41,799 --> 00:22:45,720
+LS I values to a map within CEPA and Young
+
+347
+00:22:45,720 --> 00:22:48,480
+, which looks like this. So there's some patches
+
+348
+00:22:48,480 --> 00:22:49,950
+of red, but overall there's a lot of green
+
+349
+00:22:51,640 --> 00:22:53,720
+zone one into areas. There's some yellow associated with
+
+350
+00:22:53,720 --> 00:22:56,650
+the red. So I check if this makes any
+
+351
+00:22:56,650 --> 00:22:57,559
+sense. Well, the easiest way to do it
+
+352
+00:22:57,559 --> 00:23:02,170
+would be to look at the evidence for slope instability
+
+353
+00:23:02,170 --> 00:23:03,359
+and put it back on my final map because this
+
+354
+00:23:03,359 --> 00:23:06,779
+was used to create this map. So this is
+
+355
+00:23:06,779 --> 00:23:08,980
+circular here. What I should see is I should
+
+356
+00:23:08,980 --> 00:23:12,319
+see a very strong, positive correlation between donation class
+
+357
+00:23:12,650 --> 00:23:15,640
+and increasing evidence for soap instability. And that's exactly
+
+358
+00:23:15,640 --> 00:23:18,069
+what I see. So it turns out that there's
+
+359
+00:23:18,069 --> 00:23:22,349
+a strong linear relationship in this case between miso nation
+
+360
+00:23:22,349 --> 00:23:26,829
+increasing with the most evidence for soap instability falling into
+
+361
+00:23:26,839 --> 00:23:30,460
+red and yellow classes. So now that I have
+
+362
+00:23:30,460 --> 00:23:33,680
+this information, what I have done is I've described
+
+363
+00:23:33,680 --> 00:23:37,680
+the inventory that I input into the map. Haven't
+
+364
+00:23:40,420 --> 00:23:42,029
+I have theorized what the ground truth is? But
+
+365
+00:23:42,029 --> 00:23:45,609
+what I've exactly done is produced a set of values
+
+366
+00:23:45,609 --> 00:23:49,089
+of factoring class weights that exactly describes the landslide inventory
+
+367
+00:23:49,400 --> 00:23:52,660
+within step on junk. So what would happen then
+
+368
+00:23:52,660 --> 00:23:56,640
+, if I applied? Those factor in class waits
+
+369
+00:23:56,900 --> 00:23:59,839
+to an area where I don't have any landslide inventory
+
+370
+00:23:59,839 --> 00:24:03,650
+control. This is telling Manu it's a sub district
+
+371
+00:24:03,650 --> 00:24:07,480
+. It's just an administrative level up higher than seven
+
+372
+00:24:07,480 --> 00:24:08,599
+. John, Where is which sits right here.
+
+373
+00:24:10,000 --> 00:24:11,480
+It does include the peak of Mount Lahu there.
+
+374
+00:24:12,190 --> 00:24:15,119
+So when I apply those factoring class waits, I
+
+375
+00:24:15,119 --> 00:24:17,480
+make a map. It looks like this. Now
+
+376
+00:24:17,869 --> 00:24:19,950
+the red patch here, just visually is red patch
+
+377
+00:24:19,950 --> 00:24:22,369
+here, near to the peak of Mount Lahu,
+
+378
+00:24:23,210 --> 00:24:26,099
+which indicates steep slopes. But over here we have
+
+379
+00:24:26,099 --> 00:24:27,759
+an intermediate area that's still steep, but these are
+
+380
+00:24:27,759 --> 00:24:30,299
+dense forests were not. A lot of people are
+
+381
+00:24:30,299 --> 00:24:33,200
+living and then we have these large red areas that
+
+382
+00:24:33,210 --> 00:24:37,990
+are the combination of people living in settlements on steep
+
+383
+00:24:37,990 --> 00:24:41,250
+slopes, possibly near rivers, possibly near roads and
+
+384
+00:24:41,250 --> 00:24:47,400
+possibly on lahar type geology. Then also, what
+
+385
+00:24:47,400 --> 00:24:51,019
+would happen if I extrapolated throughout the entire car in
+
+386
+00:24:51,019 --> 00:24:52,160
+on your regency? So this is this is tell
+
+387
+00:24:52,160 --> 00:24:55,259
+him and you in relation to car ng on yee
+
+388
+00:24:55,259 --> 00:24:57,299
+are just as an indicator here. And when I
+
+389
+00:24:57,299 --> 00:25:00,829
+apply, my factoring class waits to Carling on your
+
+390
+00:25:00,829 --> 00:25:02,829
+It produces a map that looks like this now just
+
+391
+00:25:02,829 --> 00:25:04,710
+visually inspecting this, it appears to me that there
+
+392
+00:25:04,710 --> 00:25:08,890
+is a clustering of red values red area in the
+
+393
+00:25:08,890 --> 00:25:12,519
+northeastern portion of car nine yard. We'll come back
+
+394
+00:25:12,519 --> 00:25:15,309
+to that. But first I'd like to discuss how
+
+395
+00:25:15,309 --> 00:25:17,420
+do I test these maps? How do I check
+
+396
+00:25:17,430 --> 00:25:18,759
+to see if they actually work in any way?
+
+397
+00:25:19,410 --> 00:25:22,250
+Well, the first way I'd like to do that
+
+398
+00:25:22,250 --> 00:25:25,380
+is to introduce a piece of information set of data
+
+399
+00:25:25,680 --> 00:25:26,950
+that hasn't yet been mentioned. And that is the
+
+400
+00:25:27,619 --> 00:25:32,240
+landslide incident. Reports from Baby Day card Manyara,
+
+401
+00:25:32,250 --> 00:25:37,289
+the disaster management office that responds to and reports disasters
+
+402
+00:25:37,289 --> 00:25:38,839
+within this area. So that's me. And as
+
+403
+00:25:38,839 --> 00:25:41,130
+the leader of Big Redecard on yard, my advisers
+
+404
+00:25:41,130 --> 00:25:45,589
+from Indonesia and some Indonesian students and Kenneth graduated last
+
+405
+00:25:45,589 --> 00:25:48,059
+year, who visited Indonesia to do his own bachelors
+
+406
+00:25:48,200 --> 00:25:51,980
+thesis during this period of time and then some workers
+
+407
+00:25:51,990 --> 00:25:53,230
+for baby, they card on your now. They
+
+408
+00:25:53,230 --> 00:25:56,829
+have been taking incident reports on landslide since 2008.
+
+409
+00:25:56,839 --> 00:26:00,089
+They just began in 2008 and they very graciously gave
+
+410
+00:26:00,089 --> 00:26:03,279
+me all the incident data that they had for landslides
+
+411
+00:26:03,549 --> 00:26:08,720
+between 2010 and 2012. Now, this information was
+
+412
+00:26:08,720 --> 00:26:11,849
+in document based format. It was not digital in
+
+413
+00:26:11,849 --> 00:26:15,690
+any database. Um, and it didn't have any
+
+414
+00:26:15,690 --> 00:26:18,089
+GPS coordinates, so I couldn't use it as a
+
+415
+00:26:18,099 --> 00:26:21,059
+geo referenced landslide inventory, which would have been very
+
+416
+00:26:21,059 --> 00:26:23,380
+helpful in producing my comparison values. For the HP
+
+417
+00:26:23,380 --> 00:26:26,230
+analysis, however, it did have a lot of
+
+418
+00:26:26,230 --> 00:26:32,049
+very good information regarding incidents. Uh, statistics of
+
+419
+00:26:32,049 --> 00:26:33,319
+money in amount of victims, things of that nature
+
+420
+00:26:33,319 --> 00:26:37,250
+. There's about 268 reports, and it also they
+
+421
+00:26:37,259 --> 00:26:41,579
+each had address information on them. So down to
+
+422
+00:26:41,579 --> 00:26:45,440
+the lowest administrative boundary that I have in my yeah
+
+423
+00:26:45,440 --> 00:26:48,880
+yes platform, which is the village the day So
+
+424
+00:26:48,880 --> 00:26:52,980
+level Aiken been these incident reports to see where they
+
+425
+00:26:52,980 --> 00:26:56,920
+are coming from just in general. So one of
+
+426
+00:26:56,920 --> 00:26:59,440
+the early goals of this thesis was to create an
+
+427
+00:26:59,450 --> 00:27:03,700
+incident report input form that would automatically make an Excel
+
+428
+00:27:03,880 --> 00:27:07,009
+database of these incidents. So what I did is
+
+429
+00:27:07,009 --> 00:27:11,529
+I scripted this using visual Basic and Microsoft Excel with
+
+430
+00:27:11,529 --> 00:27:15,289
+the help of Dr Gallagher. These programming class and
+
+431
+00:27:15,390 --> 00:27:19,849
+I presented it to the Baby Day office in late
+
+432
+00:27:19,869 --> 00:27:22,339
+2013. It's an Indonesian language. It uses all
+
+433
+00:27:22,339 --> 00:27:26,019
+the information that they input on their incident reports already
+
+434
+00:27:26,740 --> 00:27:30,700
+, Um, but it's only having to do with
+
+435
+00:27:30,700 --> 00:27:36,299
+landslides, and I I never received any information further
+
+436
+00:27:36,299 --> 00:27:37,970
+about this. I put Bill no down here in
+
+437
+00:27:37,970 --> 00:27:40,940
+case there's any errors to please contact us, and
+
+438
+00:27:40,940 --> 00:27:42,049
+we can help you through it, etcetera. But
+
+439
+00:27:42,049 --> 00:27:44,529
+I never heard anything back, and I can only
+
+440
+00:27:44,529 --> 00:27:47,940
+assume that it probably wasn't used. Even though I
+
+441
+00:27:47,940 --> 00:27:49,170
+spent a couple hours out there with a translator training
+
+442
+00:27:49,170 --> 00:27:52,849
+someone had used it. They're very enthusiastic about it
+
+443
+00:27:52,170 --> 00:27:55,529
+. They like the idea, but my thought is
+
+444
+00:27:55,529 --> 00:27:56,990
+it's probably not robust enough. There's a number of
+
+445
+00:27:56,990 --> 00:28:00,339
+reasons why this could have gone wrong. It doesn't
+
+446
+00:28:00,339 --> 00:28:03,470
+have the narrative that they put in the incident reports
+
+447
+00:28:03,470 --> 00:28:07,839
+themselves, which is very cultural and characteristic. It
+
+448
+00:28:07,839 --> 00:28:10,089
+was meant to be done alongside the instant reports,
+
+449
+00:28:10,089 --> 00:28:11,289
+which is adding work to them. And if they
+
+450
+00:28:11,289 --> 00:28:14,539
+don't see the benefit, then there might be no
+
+451
+00:28:14,549 --> 00:28:15,910
+incentive to do so. And they might have need
+
+452
+00:28:15,910 --> 00:28:18,069
+something might have needed something that dealt with more than
+
+453
+00:28:18,069 --> 00:28:21,960
+just landslides, which is all this is is referring
+
+454
+00:28:21,970 --> 00:28:23,349
+to regardless, I was still able to use this
+
+455
+00:28:23,349 --> 00:28:27,230
+incident report form to make my own database in order
+
+456
+00:28:27,230 --> 00:28:30,480
+to check to see if my car go on your
+
+457
+00:28:30,480 --> 00:28:34,769
+map correlated with the distribution of incident reports so I
+
+458
+00:28:34,769 --> 00:28:38,420
+will discuss the results. This is the map that
+
+459
+00:28:38,420 --> 00:28:44,509
+was produced by the distribution of incident reports within car
+
+460
+00:28:44,509 --> 00:28:47,960
+gone yard. And the graduated color here, ranging
+
+461
+00:28:47,960 --> 00:28:49,630
+from light orange to dark orange, indicates how many
+
+462
+00:28:49,640 --> 00:28:55,019
+instant reports refer to that village in terms of victims
+
+463
+00:28:55,359 --> 00:28:57,400
+or location of landslide. And what it appears to
+
+464
+00:28:57,400 --> 00:29:00,859
+me here is that there's a clustering of incident report
+
+465
+00:29:02,220 --> 00:29:06,960
+High incident report villages in the northeast corner of Garden
+
+466
+00:29:06,960 --> 00:29:10,170
+Yard. If I put a broad circle around that
+
+467
+00:29:10,269 --> 00:29:12,289
+and I bring back my HP map just to visually
+
+468
+00:29:12,289 --> 00:29:15,720
+see how it correlates, it appears to me that
+
+469
+00:29:15,720 --> 00:29:18,619
+they fall. It falls roughly in the same cluster
+
+470
+00:29:18,630 --> 00:29:21,970
+of red that I identified in the HP prediction.
+
+471
+00:29:22,819 --> 00:29:26,609
+So viewing that statistically if I plot the top 10
+
+472
+00:29:26,019 --> 00:29:30,849
+red zones by percent area in yellow on this map
+
+473
+00:29:32,130 --> 00:29:37,400
+in the top 10 landslide incident report generators the top
+
+474
+00:29:37,400 --> 00:29:40,700
+10 villages that I referred to within incident reports in
+
+475
+00:29:40,710 --> 00:29:44,630
+appeal and the villages that have overlapping data in green
+
+476
+00:29:44,990 --> 00:29:47,180
+. What you see is there are four villages out
+
+477
+00:29:47,180 --> 00:29:49,200
+of the top 10 producers of landslide incident reports that
+
+478
+00:29:49,200 --> 00:29:53,619
+were identified by the HP prediction and in addition,
+
+479
+00:29:55,099 --> 00:29:59,039
+There are some other villages here that are identified by
+
+480
+00:29:59,039 --> 00:30:00,730
+the HP prediction that are adjacent to five of the
+
+481
+00:30:00,730 --> 00:30:07,559
+other incident report generators in this area. So this
+
+482
+00:30:07,559 --> 00:30:08,759
+demonstrates to me that there is indeed a clustering of
+
+483
+00:30:08,769 --> 00:30:11,029
+both data within the same area. So this is
+
+484
+00:30:11,640 --> 00:30:15,839
+somewhat of a great success, for it supports the
+
+485
+00:30:15,839 --> 00:30:19,690
+model of HB as a predictor of regional slope instability
+
+486
+00:30:21,809 --> 00:30:23,240
+. But we'll discuss that more in the discussion section
+
+487
+00:30:23,250 --> 00:30:26,329
+. So I also have a map for town man
+
+488
+00:30:26,329 --> 00:30:27,569
+you, which is a little bit smaller scale.
+
+489
+00:30:29,089 --> 00:30:30,970
+And I was actually able to take this map directly
+
+490
+00:30:30,970 --> 00:30:32,849
+to the field earlier this year. So I had
+
+491
+00:30:32,849 --> 00:30:36,740
+the wonderful privilege to go back to Indonesia in March
+
+492
+00:30:36,750 --> 00:30:37,740
+of this year. About a month and 1/2 ago
+
+493
+00:30:38,099 --> 00:30:41,130
+, I brought this map with me and I came
+
+494
+00:30:41,130 --> 00:30:44,829
+to the field with the goal of locating serious landslides
+
+495
+00:30:44,839 --> 00:30:48,440
+to see how they matched up with my predictions.
+
+496
+00:30:48,450 --> 00:30:51,230
+And I found four sites of serious land sliding,
+
+497
+00:30:51,619 --> 00:30:52,819
+and I'll just just each one of them individually.
+
+498
+00:30:52,829 --> 00:30:56,059
+So first is site one. This is me for
+
+499
+00:30:56,059 --> 00:31:00,250
+scale. This is an extremely large landslide about 95
+
+500
+00:31:00,250 --> 00:31:03,769
+meters in with and it occurred directly adjacent to this
+
+501
+00:31:03,769 --> 00:31:07,329
+major road in an area where it's largely homogeneous soil
+
+502
+00:31:07,680 --> 00:31:12,670
+with pebbles of tough and and a site boulders.
+
+503
+00:31:12,750 --> 00:31:15,380
+So it's happening on a steep slope that was modified
+
+504
+00:31:15,380 --> 00:31:18,910
+by farming activity. It occurred in late 2014 according
+
+505
+00:31:18,920 --> 00:31:22,230
+to local knowledge, and it also occurred alongside other
+
+506
+00:31:22,240 --> 00:31:25,549
+landslides that were secondary. That didn't occur at the
+
+507
+00:31:25,549 --> 00:31:29,759
+exact same time, but they occurred in Uh uh
+
+508
+00:31:30,220 --> 00:31:30,869
+in the same month, is what I was told
+
+509
+00:31:30,869 --> 00:31:33,950
+by locals has this primary landslide, So there's about
+
+510
+00:31:33,960 --> 00:31:38,420
+two very large ones here. All this also discussed
+
+511
+00:31:38,420 --> 00:31:41,200
+site to, which is about 500 meters up the
+
+512
+00:31:41,200 --> 00:31:45,130
+road, which is slightly smaller. It's about 32
+
+513
+00:31:45,130 --> 00:31:48,240
+meters in size and this is the thing. Very
+
+514
+00:31:48,240 --> 00:31:51,720
+similar physical condition right next to the road in thick
+
+515
+00:31:51,720 --> 00:31:55,170
+, homogeneous soil with steep slopes and farming conditions.
+
+516
+00:31:55,640 --> 00:32:00,950
+Now this clustering of landslides in certain physical conditions because
+
+517
+00:32:00,950 --> 00:32:02,839
+although this is 500 meters away, it's almost the
+
+518
+00:32:02,839 --> 00:32:07,309
+same story. A site one indicates to me that
+
+519
+00:32:07,309 --> 00:32:09,339
+there is a value in looking for the configuration of
+
+520
+00:32:09,339 --> 00:32:15,759
+physical conditions, to look for soap instability just as
+
+521
+00:32:15,759 --> 00:32:17,900
+an aside there. But how did they plot with
+
+522
+00:32:17,900 --> 00:32:21,529
+my HP prediction? And what I found is that
+
+523
+00:32:21,529 --> 00:32:22,690
+they seem to plot in an area that is marked
+
+524
+00:32:22,700 --> 00:32:28,180
+as green as one and two. So before I
+
+525
+00:32:28,180 --> 00:32:29,880
+move on to far here, I want to mention
+
+526
+00:32:29,880 --> 00:32:32,210
+that there will be landslides in areas that are marked
+
+527
+00:32:32,220 --> 00:32:36,089
+as green. There is a certain percentage that must
+
+528
+00:32:36,089 --> 00:32:37,609
+happen in them in order for them to fit this
+
+529
+00:32:37,609 --> 00:32:42,380
+model. But given that these physical conditions air causing
+
+530
+00:32:42,380 --> 00:32:44,819
+landslides in more than one area, you would hope
+
+531
+00:32:45,180 --> 00:32:47,250
+that the HP method would detect these in yellow or
+
+532
+00:32:47,250 --> 00:32:50,349
+red area. Now, the next important thing I
+
+533
+00:32:50,349 --> 00:32:52,240
+want to point out is this purple line here which
+
+534
+00:32:52,240 --> 00:32:54,319
+indicates the major road, which is on the order
+
+535
+00:32:54,319 --> 00:32:58,910
+of 506 100 meters away from these sites. But
+
+536
+00:32:58,910 --> 00:33:00,910
+if you look at these pictures, it appears the
+
+537
+00:33:00,910 --> 00:33:05,259
+major road is directly next to these landslides. So
+
+538
+00:33:05,259 --> 00:33:07,599
+I thought maybe my GPS coordinates are wrong. I
+
+539
+00:33:07,599 --> 00:33:09,839
+went to a satellite image, imploded these sites there
+
+540
+00:33:09,839 --> 00:33:12,690
+, and it seems, in fact, that they
+
+541
+00:33:12,690 --> 00:33:15,740
+are plotting next to a linear feature seen here as
+
+542
+00:33:15,740 --> 00:33:19,940
+a tan line with dark red dashes. This is
+
+543
+00:33:19,940 --> 00:33:22,549
+a road that's under construction. So this road was
+
+544
+00:33:23,109 --> 00:33:28,759
+under construction in 2013 and my data was from 2012
+
+545
+00:33:28,759 --> 00:33:31,490
+so it didn't include this road, this major road
+
+546
+00:33:32,210 --> 00:33:35,039
+. If you see this right angle here that's going
+
+547
+00:33:35,039 --> 00:33:37,349
+off to the east with it's indicative bump, that's
+
+548
+00:33:37,359 --> 00:33:39,720
+the right angle right there. The indicative bump that
+
+549
+00:33:39,730 --> 00:33:44,720
+I'm referring to in my model I have not included
+
+550
+00:33:44,970 --> 00:33:46,509
+the updated road in my HP model, and it's
+
+551
+00:33:46,519 --> 00:33:49,789
+my belief that if I did, it would have
+
+552
+00:33:49,799 --> 00:33:52,650
+had the ability to bring it up in rank from
+
+553
+00:33:52,660 --> 00:33:54,529
+either yellow to red because it would have had the
+
+554
+00:33:54,539 --> 00:33:58,220
+road distance checked. It would have had a disturbance
+
+555
+00:33:58,220 --> 00:34:00,410
+of the soil. And there's also land use that
+
+556
+00:34:00,410 --> 00:34:04,049
+has been created as a result of this road,
+
+557
+00:34:04,920 --> 00:34:07,820
+so moving on insight. Three. This is a
+
+558
+00:34:07,820 --> 00:34:13,260
+very large landslide, the worst in recorded memory in
+
+559
+00:34:13,260 --> 00:34:16,690
+these Indonesian in this Indonesian area. This landslide occurred
+
+560
+00:34:16,699 --> 00:34:22,820
+during morning and it killed 65 people in 2007 so
+
+561
+00:34:22,820 --> 00:34:25,219
+it happened on a very steep slope with modification by
+
+562
+00:34:25,219 --> 00:34:29,900
+farming, and it was about 100 meters and with
+
+563
+00:34:30,699 --> 00:34:32,360
+so how did this very seriously landslide plot on my
+
+564
+00:34:32,369 --> 00:34:36,610
+HP mapple. It seems to have been targeted right
+
+565
+00:34:36,610 --> 00:34:37,760
+into an area of yellow and red. Now it's
+
+566
+00:34:37,760 --> 00:34:42,860
+a big white circle because it's too large landslide and
+
+567
+00:34:42,860 --> 00:34:45,769
+there's little bit error associated with it. However,
+
+568
+00:34:46,280 --> 00:34:50,139
+when you consider it against the background noise of green
+
+569
+00:34:50,150 --> 00:34:52,989
+areas, I see this is a very strong supporter
+
+570
+00:34:52,269 --> 00:34:55,630
+of the H B as a predictive predictor of this
+
+571
+00:34:55,630 --> 00:35:00,239
+type of landslide, so moving on to site for
+
+572
+00:35:00,239 --> 00:35:01,809
+which is a completely different kind of landslide. Now
+
+573
+00:35:01,820 --> 00:35:05,730
+, this is a creeping landslide that occurred over a
+
+574
+00:35:05,730 --> 00:35:07,420
+long period of time and it's still ongoing and it's
+
+575
+00:35:07,420 --> 00:35:10,210
+very special because I was able to visit it over
+
+576
+00:35:10,210 --> 00:35:13,329
+this period of time while I was living in Indonesia
+
+577
+00:35:13,340 --> 00:35:15,610
+. So this is September 2012. This with me
+
+578
+00:35:15,860 --> 00:35:20,309
+and Kenneth again and my advisers and a driver looking
+
+579
+00:35:20,309 --> 00:35:22,920
+at cracking in the ground, standing on pavements near
+
+580
+00:35:22,920 --> 00:35:25,400
+this home and their vegetation down here. But we
+
+581
+00:35:25,400 --> 00:35:30,289
+can easily walk past this site here in September 2012
+
+582
+00:35:30,289 --> 00:35:34,170
+moving forward in January 2013 about four months later,
+
+583
+00:35:34,559 --> 00:35:36,739
+The area where we're standing actually isn't there anymore.
+
+584
+00:35:36,750 --> 00:35:37,920
+This is receded back completely. The house that used
+
+585
+00:35:37,920 --> 00:35:42,650
+to be there has been evacuated and scrapped and now
+
+586
+00:35:42,650 --> 00:35:45,800
+this scarf here is about probably 3 to 4 meters
+
+587
+00:35:45,800 --> 00:35:47,489
+in height. You could still walk across this area
+
+588
+00:35:49,239 --> 00:35:52,519
+now moving forward to August of 2013. The area
+
+589
+00:35:52,519 --> 00:35:54,190
+that I just pointed out that it could be walk
+
+590
+00:35:54,190 --> 00:35:58,440
+across is completely gone. It's completely eh vegetated.
+
+591
+00:35:58,440 --> 00:36:01,780
+And they've implanted this poll here to indicate further land
+
+592
+00:36:01,780 --> 00:36:05,900
+movement. Now. I also went back of this
+
+593
+00:36:05,909 --> 00:36:07,670
+in this year in March and this is what I
+
+594
+00:36:07,670 --> 00:36:10,619
+saw. This poll has been significantly strained and stressed
+
+595
+00:36:10,619 --> 00:36:14,320
+, so this landslide is still ongoing today. Although
+
+596
+00:36:14,320 --> 00:36:15,469
+it's a different kind of landslide completely. How does
+
+597
+00:36:15,469 --> 00:36:20,769
+it plot within my HP map prediction and it appears
+
+598
+00:36:20,769 --> 00:36:25,130
+the flooded area that's marked very largely relative to the
+
+599
+00:36:25,130 --> 00:36:29,119
+other ones as red. I'd also like to point
+
+600
+00:36:29,119 --> 00:36:31,989
+out here while we're on the slide to the southeast
+
+601
+00:36:31,989 --> 00:36:35,239
+. There's this large red area into the west.
+
+602
+00:36:35,239 --> 00:36:38,289
+There's another large area in which no similar slope instability
+
+603
+00:36:38,289 --> 00:36:40,840
+was seen. But I also want to point out
+
+604
+00:36:40,849 --> 00:36:45,139
+, just like when, just like were ableto have
+
+605
+00:36:45,139 --> 00:36:49,030
+landslides in green areas. We're also able to observe
+
+606
+00:36:49,030 --> 00:36:53,369
+red areas that don't have landslide processes and I also
+
+607
+00:36:53,369 --> 00:36:57,300
+want to remind you that what this model has actually
+
+608
+00:36:57,309 --> 00:37:00,840
+done exactly is look for areas that are similar to
+
+609
+00:37:00,840 --> 00:37:06,130
+the landslide conditions to the physical conditions that were produced
+
+610
+00:37:06,130 --> 00:37:09,389
+. Landslides within seven junk the inventory that was input
+
+611
+00:37:09,400 --> 00:37:14,199
+into the model. So this is read exactly because
+
+612
+00:37:14,210 --> 00:37:16,300
+it is very similar to the conditions which caused landslides
+
+613
+00:37:16,500 --> 00:37:20,500
+in adjacent area. So just because it doesn't have
+
+614
+00:37:20,500 --> 00:37:22,619
+land sliding now doesn't mean that it can't in the
+
+615
+00:37:22,630 --> 00:37:24,559
+future, but should be noted that there is quite
+
+616
+00:37:24,570 --> 00:37:30,170
+a liberal painting of red along this area, so
+
+617
+00:37:30,179 --> 00:37:34,519
+results overview regionally. It successfully identified HP as a
+
+618
+00:37:34,530 --> 00:37:37,929
+model successfully identified areas known to be high producers of
+
+619
+00:37:37,929 --> 00:37:40,619
+landslide incident reports. It's like one into it failed
+
+620
+00:37:40,619 --> 00:37:45,690
+to detect these very serious large landslides attributed to having
+
+621
+00:37:45,699 --> 00:37:50,550
+outdated data. Site three successfully placed serious landslide against
+
+622
+00:37:50,559 --> 00:37:53,659
+a background of green area and site for successfully placed
+
+623
+00:37:53,659 --> 00:37:55,820
+the creeping event in a larger area. Overall,
+
+624
+00:37:55,820 --> 00:37:59,429
+there was many red areas without soap, instability,
+
+625
+00:37:59,429 --> 00:38:04,150
+evidence scene. So now let's have some discussion about
+
+626
+00:38:04,159 --> 00:38:06,260
+this. First, I'd like to point out some
+
+627
+00:38:06,260 --> 00:38:08,710
+potential sources of air in this method. First of
+
+628
+00:38:08,710 --> 00:38:12,809
+all the inventory that was very kindly given to me
+
+629
+00:38:12,809 --> 00:38:16,400
+by Luke Weidmann 2014 was I never meant to be
+
+630
+00:38:16,400 --> 00:38:21,260
+extrapolated, enforced on to the entire region. I
+
+631
+00:38:21,260 --> 00:38:23,989
+was actually fortunate enough to participate in some in a
+
+632
+00:38:23,989 --> 00:38:29,030
+very brief period of actually taking this inventory. And
+
+633
+00:38:29,519 --> 00:38:32,949
+, um, it includes not only landslides but rockfalls
+
+634
+00:38:32,949 --> 00:38:37,389
+and creeping and evidence for cracking things that actually haven't
+
+635
+00:38:37,400 --> 00:38:38,820
+fallen yet. This may account for some of that
+
+636
+00:38:38,820 --> 00:38:42,170
+liberal presence of red area that we saw on the
+
+637
+00:38:42,170 --> 00:38:45,079
+map. In addition, the data are clustered near
+
+638
+00:38:45,079 --> 00:38:46,760
+roads because just like in my thesis, where I
+
+639
+00:38:46,760 --> 00:38:50,670
+wasn't able to see the entire area, we used
+
+640
+00:38:50,670 --> 00:38:52,809
+the roads. We used motorbikes. We walked around
+
+641
+00:38:52,809 --> 00:38:54,960
+in order to make this information. I'm sure this
+
+642
+00:38:54,960 --> 00:39:00,610
+is the similar case for this thesis. So therefore
+
+643
+00:39:00,619 --> 00:39:07,199
+landslides that are near road are preferentially reported. In
+
+644
+00:39:07,199 --> 00:39:09,000
+addition, in my factor choice, I have slow
+
+645
+00:39:09,000 --> 00:39:14,019
+class river channel proximity and road proximity, all with
+
+646
+00:39:14,019 --> 00:39:16,980
+the intention of looking for slope channels. So slope
+
+647
+00:39:16,989 --> 00:39:20,760
+steepness And the reason I did this is because my
+
+648
+00:39:20,769 --> 00:39:22,219
+slow class map is made from a topography, met
+
+649
+00:39:22,230 --> 00:39:27,780
+from contour lines and therefore I couldn't haven't be too
+
+650
+00:39:27,780 --> 00:39:30,489
+high resolution because it started to create artifacts in the
+
+651
+00:39:30,500 --> 00:39:32,650
+data. So the resolution of that slope map is
+
+652
+00:39:32,820 --> 00:39:36,199
+pixel sizes of 50 meters by 50 meters, so
+
+653
+00:39:36,199 --> 00:39:39,380
+anything below 50 meters any change in slope below 50
+
+654
+00:39:39,380 --> 00:39:42,900
+meters would not be detected. Be sort of averaged
+
+655
+00:39:42,900 --> 00:39:45,730
+out according to the topography map. So I needed
+
+656
+00:39:45,730 --> 00:39:51,309
+some information from the river channels which arm or localized
+
+657
+00:39:51,309 --> 00:39:52,030
+in the road cuts, which are known to be
+
+658
+00:39:52,030 --> 00:39:57,130
+a large producer of landslides in this area. So
+
+659
+00:39:57,130 --> 00:39:59,449
+that being said, I have some well, first
+
+660
+00:39:59,500 --> 00:40:01,619
+, let's have some conclusions. I found HP to
+
+661
+00:40:01,619 --> 00:40:07,320
+be extremely useful, particularly for a preliminary landslide study
+
+662
+00:40:07,860 --> 00:40:09,079
+in an area where you have never been or you're
+
+663
+00:40:09,090 --> 00:40:14,610
+unable to go, particularly with areas in Southeast Asia
+
+664
+00:40:14,610 --> 00:40:16,670
+where there are wide areas of land that have never
+
+665
+00:40:16,670 --> 00:40:20,900
+been analyzed by geologists. This is a very low
+
+666
+00:40:20,900 --> 00:40:24,260
+cost, an attractive method for approaching those areas,
+
+667
+00:40:24,329 --> 00:40:28,829
+especially initially. Now I say low cost. Having
+
+668
+00:40:28,829 --> 00:40:30,719
+said that, the data I used was practically free
+
+669
+00:40:30,789 --> 00:40:34,239
+. I used information that was primary. I used
+
+670
+00:40:34,239 --> 00:40:37,590
+remote sensing information. I used information from past DC's
+
+671
+00:40:37,679 --> 00:40:40,219
+. However, uh, we found that there was
+
+672
+00:40:40,219 --> 00:40:43,679
+an issue with some of my data being updated.
+
+673
+00:40:43,929 --> 00:40:45,030
+I mean said you could potentially spend a lot of
+
+674
+00:40:45,030 --> 00:40:46,780
+money and put new data in here, and I
+
+675
+00:40:46,780 --> 00:40:51,030
+have some suggestions for a future study. And a
+
+676
+00:40:51,030 --> 00:40:52,690
+lot of these suggestions are actually for myself because I'm
+
+677
+00:40:52,690 --> 00:40:57,139
+currently working on a proposal or grant in order to
+
+678
+00:40:57,150 --> 00:41:01,500
+outline how this could be done another time in either
+
+679
+00:41:01,500 --> 00:41:05,699
+another area of the same area to achieve a much
+
+680
+00:41:05,760 --> 00:41:08,079
+more valuable effect. And what I recommend doing is
+
+681
+00:41:08,079 --> 00:41:12,289
+including high resolution D. M within it. So
+
+682
+00:41:12,300 --> 00:41:15,349
+maybe lied are imagery. This would eliminate the need
+
+683
+00:41:15,349 --> 00:41:17,989
+tohave roads in river channels as a factor completely,
+
+684
+00:41:19,090 --> 00:41:22,380
+so long as your slope class map is high enough
+
+685
+00:41:22,380 --> 00:41:24,699
+resolution to detect those features. You could, however
+
+686
+00:41:24,699 --> 00:41:29,360
+, have roads as vibration sources in river as something
+
+687
+00:41:29,360 --> 00:41:30,980
+to do with the hydrology situation, but they would
+
+688
+00:41:30,980 --> 00:41:35,550
+be set up differently in that event. Also,
+
+689
+00:41:35,550 --> 00:41:37,650
+I recommend a have a fit for purpose landslide inventory
+
+690
+00:41:37,650 --> 00:41:37,909
+. What I mean by that is one that is
+
+691
+00:41:37,909 --> 00:41:43,880
+made for HP, either one that is produced from
+
+692
+00:41:43,880 --> 00:41:49,019
+a database that is from the Disaster Management Office Baby
+
+693
+00:41:49,019 --> 00:41:51,610
+Day. Calling on you are that includes landslides from
+
+694
+00:41:51,610 --> 00:41:54,590
+all over scarring on your or one that is made
+
+695
+00:41:54,590 --> 00:41:57,650
+with a certain goal in mind, such as if
+
+696
+00:41:57,650 --> 00:42:02,139
+I'm only looking for classic translational rotational landslides in thick
+
+697
+00:42:02,139 --> 00:42:07,710
+soils above the thes the parent geology maybe above 30
+
+698
+00:42:07,710 --> 00:42:10,840
+meters squared affected area that I would only map those
+
+699
+00:42:12,230 --> 00:42:14,909
+those in my inventory and HP would give me exactly
+
+700
+00:42:14,909 --> 00:42:17,630
+the conditions that are conducive only to those landslides.
+
+701
+00:42:20,000 --> 00:42:22,130
+Also, I recommend putting some unique factors. Soil
+
+702
+00:42:22,130 --> 00:42:24,099
+thickness, rainfall distribution, Ashley ash, clay layer
+
+703
+00:42:24,099 --> 00:42:27,920
+coverage, vegetation analysis, etcetera. I believe that
+
+704
+00:42:27,920 --> 00:42:31,329
+this system allows for more complexity, and it benefits
+
+705
+00:42:31,329 --> 00:42:34,420
+from that. So because you can compare things on
+
+706
+00:42:34,420 --> 00:42:37,840
+a pair wise basis, more complexity is better.
+
+707
+00:42:37,840 --> 00:42:40,250
+So long a special care sticking to avoid redundancy in
+
+708
+00:42:40,250 --> 00:42:44,239
+the factors you don't want to types of factors that
+
+709
+00:42:44,239 --> 00:42:49,420
+are getting at the same physical condition, and also
+
+710
+00:42:49,530 --> 00:42:52,059
+it is very low cost to run HP once the
+
+711
+00:42:52,059 --> 00:42:53,300
+data is obtained so you can do it a number
+
+712
+00:42:53,300 --> 00:42:57,130
+of times once you have made a map, if
+
+713
+00:42:57,130 --> 00:42:59,679
+you have direct access to the field area, you
+
+714
+00:42:59,679 --> 00:43:00,030
+can take it and go to the field. And
+
+715
+00:43:00,030 --> 00:43:02,239
+if you find a landslide or something, that contradicts
+
+716
+00:43:02,239 --> 00:43:06,409
+your map. You can rearrange your weights and classes
+
+717
+00:43:06,409 --> 00:43:08,280
+and accommodate that in the landslide inventory without taking new
+
+718
+00:43:08,289 --> 00:43:10,550
+data. So once you've made the investment, you
+
+719
+00:43:10,550 --> 00:43:12,989
+can run it as many times as you want.
+
+720
+00:43:12,989 --> 00:43:15,139
+You can update it, and it could be relevant
+
+721
+00:43:15,150 --> 00:43:19,320
+to the time that it's created. So with that
+
+722
+00:43:19,329 --> 00:43:21,079
+, I will conclude. But I would like to
+
+723
+00:43:21,079 --> 00:43:24,219
+give some very well deserved acknowledgements, including to Dr
+
+724
+00:43:24,219 --> 00:43:27,719
+Dweik, read a carnal wadi or Emerita, as
+
+725
+00:43:27,719 --> 00:43:30,250
+we have come to call her for inviting me to
+
+726
+00:43:30,250 --> 00:43:32,079
+Indonesia in the first place. In 2011 she very
+
+727
+00:43:32,420 --> 00:43:35,980
+kindly allowed me to sit in on a meeting and
+
+728
+00:43:35,980 --> 00:43:37,730
+in that meeting without even knowing me, invited me
+
+729
+00:43:37,920 --> 00:43:40,010
+to go to a university to go to her country
+
+730
+00:43:40,210 --> 00:43:45,030
+. And that led to a 1.5 cumulative years of
+
+731
+00:43:45,030 --> 00:43:46,300
+living there in doing a dual degrees. And I
+
+732
+00:43:46,309 --> 00:43:50,340
+have a lot to thank her for for that.
+
+733
+00:43:50,349 --> 00:43:52,590
+In that regard, Dr Hua Hui Lopo for helping
+
+734
+00:43:52,590 --> 00:43:54,590
+me with the field excursion. He provided the translators
+
+735
+00:43:54,590 --> 00:43:58,159
+, the cars, the field equipment and he was
+
+736
+00:43:58,170 --> 00:44:00,550
+always saying yes to. Whenever I wanted to go
+
+737
+00:44:00,550 --> 00:44:01,210
+to the field, even when I came and Short
+
+738
+00:44:01,210 --> 00:44:04,829
+noticed early this year for 10 days, he said
+
+739
+00:44:04,829 --> 00:44:07,090
+, OK, let's go right now and then Dr
+
+740
+00:44:07,090 --> 00:44:09,230
+Eric Frost, of course, for a lot of
+
+741
+00:44:09,230 --> 00:44:13,289
+the same reasons as a burrito for putting the trust
+
+742
+00:44:13,289 --> 00:44:16,219
+in me to go and do this study abroad experience
+
+743
+00:44:16,219 --> 00:44:19,670
+without knowing me at all. Really? In 2011
+
+744
+00:44:19,670 --> 00:44:20,699
+when I first met him, I said, I
+
+745
+00:44:20,699 --> 00:44:22,239
+want to do something That was for the community.
+
+746
+00:44:22,239 --> 00:44:22,920
+Wanted to use geology to help people and he said
+
+747
+00:44:23,579 --> 00:44:24,670
+, Well, I have someone I'd like you to
+
+748
+00:44:24,670 --> 00:44:30,670
+meet And then it became This experience has completely changed
+
+749
+00:44:30,670 --> 00:44:32,590
+my education and really has completely changed my life because
+
+750
+00:44:32,590 --> 00:44:36,760
+of the some of the personal relationships that I have
+
+751
+00:44:36,760 --> 00:44:38,980
+maintained as a result of this experience. So I
+
+752
+00:44:38,980 --> 00:44:40,860
+could talk about that forever. But I'd like to
+
+753
+00:44:40,860 --> 00:44:45,000
+keep it brief. So also, faculty and students
+
+754
+00:44:45,000 --> 00:44:49,210
+of STS you geological science, especially Luke for allowing
+
+755
+00:44:49,210 --> 00:44:52,750
+me to use his landslide inventory in this study and
+
+756
+00:44:52,750 --> 00:44:54,449
+the faculty students of you, GM, geological Engineering
+
+757
+00:44:55,030 --> 00:44:58,920
+and to them, I'd like to say three Mukasey
+
+758
+00:44:59,119 --> 00:45:04,340
+Pseudomonas ton president Dusty SIA Oh, some will give
+
+759
+00:45:04,340 --> 00:45:07,130
+Berman fat Maggie Kita Samuel. Which means thank you
+
+760
+00:45:07,130 --> 00:45:09,550
+for watching this presentation. I hope that you all
+
+761
+00:45:09,550 --> 00:45:14,059
+found it valuable. I will be happy to open
+
+762
+00:45:14,059 --> 00:45:25,369
+the fourth question. Yes, when?
+
